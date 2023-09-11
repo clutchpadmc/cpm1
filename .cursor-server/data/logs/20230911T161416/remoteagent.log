@@ -1,0 +1,24 @@
+2023-09-11 16:14:16.864 [info] 
+
+
+
+
+2023-09-11 16:14:16.864 [info] Extension host agent started.
+2023-09-11 16:14:16.872 [info] Started initializing default profile extensions in extensions installation folder. file:///home/beast/.cursor-server/extensions
+2023-09-11 16:14:16.888 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/beast/.cursor-server/extensions
+2023-09-11 16:14:17.418 [info] [127.0.0.1][a15eae81][ManagementConnection] New connection established.
+2023-09-11 16:14:17.553 [info] [127.0.0.1][6a038c81][ExtensionHostConnection] New connection established.
+2023-09-11 16:14:17.884 [info] [127.0.0.1][6a038c81][ExtensionHostConnection] <2308> Launched Extension Host Process.
+2023-09-11 16:14:22.706 [info] [127.0.0.1][a15eae81][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-09-11 16:14:22.734 [info] [127.0.0.1][6a038c81][ExtensionHostConnection] <2308> Extension Host Process exited with code: 0, signal: null.
+2023-09-11 16:14:22.735 [info] Cancelling previous shutdown timeout
+2023-09-11 16:14:22.735 [info] Last EH closed, waiting before shutting down
+2023-09-11 16:14:29.604 [info] [127.0.0.1][ca600776][ManagementConnection] New connection established.
+2023-09-11 16:14:29.735 [info] [127.0.0.1][1ae0e60f][ExtensionHostConnection] New connection established.
+2023-09-11 16:14:29.744 [info] [127.0.0.1][1ae0e60f][ExtensionHostConnection] <2903> Launched Extension Host Process.
+2023-09-11 16:19:22.736 [info] New EH opened, aborting shutdown
+2023-09-11 17:45:30.650 [info] [127.0.0.1][1ae0e60f][ExtensionHostConnection] The client has reconnected.
+2023-09-11 20:09:21.060 [info] [127.0.0.1][ac5e73d9][ManagementConnection] New connection established.
+2023-09-11 20:09:21.165 [info] [127.0.0.1][b02ed01a][ExtensionHostConnection] New connection established.
+2023-09-11 20:09:21.170 [info] [127.0.0.1][b02ed01a][ExtensionHostConnection] <13099> Launched Extension Host Process.
+2023-09-11 20:14:21.206 [info] [127.0.0.1][1ae0e60f][ExtensionHostConnection] <2903> Extension Host Process exited with code: 0, signal: null.

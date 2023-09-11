@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Sep 11 16:58:00 UTC 2023
+log4j-api-2.19.0.jar>minecraft-libraries=
+log4j-api-2.19.0.pom>minecraft-libraries=
+log4j-api-2.19.0.pom>central=

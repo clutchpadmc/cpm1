@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 98.219.133.237
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1694453745587
+  login: 1694452585198
+money: '0'
+last-account-name: clutch2dope
+logoutlocation:
+  world: dd6869be-9897-4ccd-96f1-635a0117a493
+  world-name: world
+  x: -459.0582732826162
+  y: 80.0
+  z: 177.9171583082737
+  yaw: 65.99807739257812
+  pitch: 37.950069427490234

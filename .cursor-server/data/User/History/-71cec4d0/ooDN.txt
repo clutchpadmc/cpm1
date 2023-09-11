@@ -1,0 +1,5 @@
+&6Welcome, {PLAYER} to what may and must be the most beastly realm know to minekind&6!
+&This is the &cCLUTCHPAD
+&cmc.clutchpad.click
+&6Don't get it twisted!
+&6Players online:&c {ONLINE} &6- World time:&c {WORLDTIME12}

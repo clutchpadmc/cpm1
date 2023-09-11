@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Sep 11 16:58:01 UTC 2023
+commons-lang3-3.12.0.jar>minecraft-libraries=
+commons-lang3-3.12.0.pom>central=
+commons-lang3-3.12.0.pom>minecraft-libraries=
