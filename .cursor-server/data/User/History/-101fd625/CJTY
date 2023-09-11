@@ -1,0 +1,15 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+ 	new file:   .cursor-server/data/User/History/-101fd625/entries.json
+ 	new file:   .cursor-server/data/User/History/-101fd625/u7Qr
+ 	modified:   .cursor-server/data/logs/20230911T161416/exthost3/remoteexthost.log
+ 	modified:   .cursor-server/data/logs/20230911T161416/exthost3/vscode.git/Git.log
+#
+# Changes not staged for commit:
+#	modified:   .cursor-server/data/logs/20230911T161416/exthost3/vscode.git/Git.log
+#	modified:   CraftBukkit (untracked content)
+#
