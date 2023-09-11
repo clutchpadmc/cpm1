@@ -1,0 +1,24 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+ 	modified:   .cursor-server/data/logs/20230911T161416/exthost3/remoteexthost.log
+ 	modified:   .cursor-server/data/logs/20230911T161416/exthost3/vscode.git/Git.log
+ 	modified:   world/data/raids.dat
+ 	modified:   world/entities/r.-1.-1.mca
+ 	modified:   world/entities/r.-1.0.mca
+ 	modified:   world/entities/r.0.-1.mca
+ 	modified:   world/entities/r.0.0.mca
+ 	modified:   world/level.dat
+ 	modified:   world/level.dat_old
+ 	modified:   world_nether/DIM-1/entities/r.-1.-1.mca
+ 	modified:   world_nether/DIM-1/entities/r.-1.0.mca
+ 	modified:   world_nether/DIM-1/entities/r.0.-1.mca
+ 	modified:   world_nether/DIM-1/entities/r.0.0.mca
+#
+# Changes not staged for commit:
+#	modified:   .cursor-server/data/logs/20230911T161416/exthost3/vscode.git/Git.log
+#	modified:   CraftBukkit (untracked content)
+#
