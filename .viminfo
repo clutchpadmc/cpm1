@@ -12,7 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :x
-|2,0,1694394466,,"x"
+|2,0,1694464780,,"x"
+:X
+|2,0,1694464775,,"X"
 
 # Search String History (newest to oldest):
 
@@ -28,20 +30,34 @@
 |3,1,36,0,1,0,1694390630," Minecraft Server"
 
 # File marks:
-'0  1  0  ~/MineDojo/setup.py
-|4,48,1,0,1694394466,"~/MineDojo/setup.py"
-'1  47  26  ~/server.properties
-|4,49,47,26,1694390669,"~/server.properties"
-'2  3  8  ~/eula.txt
-|4,50,3,8,1694390433,"~/eula.txt"
+'0  1  0  ~/.git/COMMIT_EDITMSG
+|4,48,1,0,1694464780,"~/.git/COMMIT_EDITMSG"
+'1  1  0  ~/MineDojo/setup.py
+|4,49,1,0,1694394466,"~/MineDojo/setup.py"
+'2  47  26  ~/server.properties
+|4,50,47,26,1694390669,"~/server.properties"
+'3  3  8  ~/eula.txt
+|4,51,3,8,1694390433,"~/eula.txt"
 
 # Jumplist (newest first):
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1694464780,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/MineDojo/setup.py
+|4,39,1,0,1694394466,"~/MineDojo/setup.py"
 -'  1  0  ~/MineDojo/setup.py
 |4,39,1,0,1694394466,"~/MineDojo/setup.py"
 -'  47  26  ~/server.properties
 |4,39,47,26,1694390669,"~/server.properties"
 -'  47  26  ~/server.properties
 |4,39,47,26,1694390669,"~/server.properties"
+-'  47  26  ~/server.properties
+|4,39,47,26,1694390669,"~/server.properties"
+-'  47  26  ~/server.properties
+|4,39,47,26,1694390669,"~/server.properties"
+-'  1  0  ~/server.properties
+|4,39,1,0,1694390621,"~/server.properties"
+-'  1  0  ~/server.properties
+|4,39,1,0,1694390621,"~/server.properties"
 -'  1  0  ~/server.properties
 |4,39,1,0,1694390621,"~/server.properties"
 -'  1  0  ~/server.properties
@@ -54,6 +70,22 @@
 |4,39,3,8,1694390433,"~/eula.txt"
 -'  3  8  ~/eula.txt
 |4,39,3,8,1694390433,"~/eula.txt"
+-'  3  8  ~/eula.txt
+|4,39,3,8,1694390433,"~/eula.txt"
+-'  3  8  ~/eula.txt
+|4,39,3,8,1694390433,"~/eula.txt"
+-'  3  8  ~/eula.txt
+|4,39,3,8,1694390433,"~/eula.txt"
+-'  3  8  ~/eula.txt
+|4,39,3,8,1694390433,"~/eula.txt"
+-'  1  0  ~/eula.txt
+|4,39,1,0,1694390417,"~/eula.txt"
+-'  1  0  ~/eula.txt
+|4,39,1,0,1694390417,"~/eula.txt"
+-'  1  0  ~/eula.txt
+|4,39,1,0,1694390417,"~/eula.txt"
+-'  1  0  ~/eula.txt
+|4,39,1,0,1694390417,"~/eula.txt"
 -'  1  0  ~/eula.txt
 |4,39,1,0,1694390417,"~/eula.txt"
 -'  1  0  ~/eula.txt
@@ -64,6 +96,10 @@
 |4,39,1,0,1694390417,"~/eula.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/COMMIT_EDITMSG
+	*	1694464778	0
+	"	1	0
 
 > ~/MineDojo/setup.py
 	*	1694394461	0
