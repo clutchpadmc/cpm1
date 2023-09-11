@@ -309,3 +309,44 @@
 2023-09-11 20:21:58.067 [info] > git show --textconv :plugins/Essentials/config.yml [5ms]
 2023-09-11 20:21:58.067 [info] > git show --textconv :plugins/Essentials/worth.yml [2ms]
 2023-09-11 20:22:05.446 [info] > git check-ignore -v -z --stdin [1ms]
+2023-09-11 20:22:38.521 [info] > git add -A -- . [26891ms]
+2023-09-11 20:22:38.521 [info] warning: adding embedded git repository: BuildData
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint: 
+hint: 	git submodule add <url> BuildData
+hint: 
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint: 
+hint: 	git rm --cached BuildData
+hint: 
+hint: See "git help submodule" for more information.
+warning: adding embedded git repository: Bukkit
+warning: adding embedded git repository: CraftBukkit
+warning: adding embedded git repository: MineDojo
+warning: adding embedded git repository: Spigot
+2023-09-11 20:22:38.839 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [313ms]
+2023-09-11 20:22:38.847 [info] > git config --get commit.template [1ms]
+2023-09-11 20:22:38.856 [info] No remotes found in the git config file.
+2023-09-11 20:22:38.862 [info] > git config --get commit.template [7ms]
+2023-09-11 20:22:38.864 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-09-11 20:22:39.340 [info] > git status -z -uall [471ms]
+2023-09-11 20:22:40.191 [info] No remotes found in the git config file.
+2023-09-11 20:22:40.192 [info] > git config --get commit.template [8ms]
+2023-09-11 20:22:40.192 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-09-11 20:22:40.267 [info] > git ls-files --stage -- /home/beast/plugins/Essentials/motd.txt [14ms]
+2023-09-11 20:22:40.277 [info] > git ls-files --stage -- /home/beast/plugins/Essentials/config.yml [31ms]
+2023-09-11 20:22:40.291 [info] > git cat-file -s 6e86fcc4e0d6fad40f59c60b888f024287482578 [15ms]
+2023-09-11 20:22:40.292 [info] > git ls-files --stage -- /home/beast/plugins/Essentials/worth.yml [26ms]
+2023-09-11 20:22:40.299 [info] > git cat-file -s 485bb1769a460db70caa8d4e07eaece979abe9be [9ms]
+2023-09-11 20:22:40.305 [info] > git cat-file -s 4a9de519131be6aa99469b2dba2ec51dca6699df [6ms]
+2023-09-11 20:22:40.388 [info] > git show --textconv :plugins/Essentials/motd.txt [28ms]
+2023-09-11 20:22:40.395 [info] > git show --textconv :plugins/Essentials/config.yml [24ms]
+2023-09-11 20:22:40.399 [info] > git show --textconv :plugins/Essentials/worth.yml [12ms]
+2023-09-11 20:22:40.756 [info] > git check-ignore -v -z --stdin [16ms]
+2023-09-11 20:22:40.792 [info] > git check-ignore -v -z --stdin [37ms]
+2023-09-11 20:22:40.855 [info] > git status -z -uall [656ms]
+2023-09-11 20:22:41.570 [info] > git check-ignore -v -z --stdin [13ms]
