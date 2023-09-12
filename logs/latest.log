@@ -1,297 +1,395 @@
-[20:17:03] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:17:05] [ServerMain/INFO]: Loaded 7 recipes
-[20:17:06] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[20:17:06] [Server thread/INFO]: Loading properties
-[20:17:06] [Server thread/INFO]: This server is running CraftBukkit version 3870-Spigot-d2eba2c-78796c9 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT)
-[20:17:07] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[20:17:07] [Server thread/INFO]: Using 4 threads for Netty based IO
-[20:17:07] [Server thread/INFO]: Debug logging is disabled
-[20:17:07] [Server thread/INFO]: Default game type: SURVIVAL
-[20:17:07] [Server thread/INFO]: Generating keypair
-[20:17:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:17:07] [Server thread/INFO]: Using epoll channel type
-[20:17:07] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
-[20:17:07] [Server thread/INFO]: [MarriageMaster] Loading MarriageMaster v2.7.0.2-Release
-[20:17:07] [Server thread/INFO]: [MarriageMaster] PCGF-PluginLib not installed. Switching to standalone mode!
-[20:17:07] [Server thread/INFO]: [dynmap] Loading dynmap v3.6-899
-[20:17:07] [Server thread/INFO]: [dynmap] version=3870-Spigot-d2eba2c-78796c9 (MC: 1.20.1)
-[20:17:08] [Server thread/INFO]: [dynmap] Mod Support API available
-[20:17:08] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.15+6463-5ca4dff
-[20:17:08] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@42a3690d]
-[20:17:08] [Server thread/INFO]: [Essentials] Loading Essentials v2.20.1
-[20:17:08] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[20:17:08] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.20.1 which is not a depend or softdepend of this plugin.
-[20:17:08] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[20:17:08] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[20:17:08] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[20:17:08] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.15+6463-5ca4dff
-[20:17:08] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[20:17:08] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
-[20:17:09] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R1.PaperweightAdapter as the Bukkit adapter
-[20:17:10] [Server thread/INFO]: [WorldEdit] ====================================================
-[20:17:10] [Server thread/INFO]: [WorldEdit]  WorldEdit works better if you use Paper 
-[20:17:10] [Server thread/INFO]: [WorldEdit]  as your server software. 
-[20:17:10] [Server thread/INFO]: [WorldEdit]   
-[20:17:10] [Server thread/INFO]: [WorldEdit]  Paper offers significant performance improvements,
-[20:17:10] [Server thread/INFO]: [WorldEdit]  bug fixes, security enhancements and optional
-[20:17:10] [Server thread/INFO]: [WorldEdit]  features for server owners to enhance their server.
-[20:17:10] [Server thread/INFO]: [WorldEdit]   
-[20:17:10] [Server thread/INFO]: [WorldEdit]  Paper includes Timings v2, which is significantly
-[20:17:10] [Server thread/INFO]: [WorldEdit]  better at diagnosing lag problems over v1.
-[20:17:10] [Server thread/INFO]: [WorldEdit]   
-[20:17:10] [Server thread/INFO]: [WorldEdit]  All of your plugins should still work, and the
-[20:17:10] [Server thread/INFO]: [WorldEdit]  Paper community will gladly help you fix any issues.
-[20:17:10] [Server thread/INFO]: [WorldEdit]   
-[20:17:10] [Server thread/INFO]: [WorldEdit]  Join the Paper Community @ https://papermc.io
-[20:17:10] [Server thread/INFO]: [WorldEdit] ====================================================
-[20:17:10] [Server thread/INFO]: Preparing level "world"
-[20:17:10] [Server thread/INFO]: -------- World Settings For [world] --------
-[20:17:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[20:17:10] [Server thread/INFO]: View Distance: 10
-[20:17:10] [Server thread/INFO]: Simulation Distance: 10
-[20:17:10] [Server thread/INFO]: Item Despawn Rate: 6000
-[20:17:10] [Server thread/INFO]: Item Merge Radius: 2.5
-[20:17:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[20:17:10] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[20:17:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[20:17:10] [Server thread/INFO]: Mob Spawn Range: 6
-[20:17:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[20:17:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[20:17:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[20:17:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[20:17:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[20:17:10] [Server thread/INFO]: Cane Growth Modifier: 100%
-[20:17:10] [Server thread/INFO]: Melon Growth Modifier: 100%
-[20:17:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[20:17:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[20:17:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[20:17:10] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[20:17:10] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[20:17:10] [Server thread/INFO]: Potato Growth Modifier: 100%
-[20:17:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[20:17:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[20:17:10] [Server thread/INFO]: Vine Growth Modifier: 100%
-[20:17:10] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[20:17:10] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[20:17:10] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[20:17:10] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[20:17:10] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[20:17:10] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[20:17:10] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[20:17:10] [Server thread/INFO]: Experience Merge Radius: 3.0
-[20:17:10] [Server thread/INFO]: Max TNT Explosions: 100
-[20:17:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[20:17:11] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[20:17:11] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[20:17:11] [Server thread/INFO]: View Distance: 10
-[20:17:11] [Server thread/INFO]: Simulation Distance: 10
-[20:17:11] [Server thread/INFO]: Item Despawn Rate: 6000
-[20:17:11] [Server thread/INFO]: Item Merge Radius: 2.5
-[20:17:11] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[20:17:11] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[20:17:11] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[20:17:11] [Server thread/INFO]: Mob Spawn Range: 6
-[20:17:11] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[20:17:11] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[20:17:11] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[20:17:11] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[20:17:11] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[20:17:11] [Server thread/INFO]: Cane Growth Modifier: 100%
-[20:17:11] [Server thread/INFO]: Melon Growth Modifier: 100%
-[20:17:11] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[20:17:11] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[20:17:11] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[20:17:11] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[20:17:11] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[20:17:11] [Server thread/INFO]: Potato Growth Modifier: 100%
-[20:17:11] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[20:17:11] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[20:17:11] [Server thread/INFO]: Vine Growth Modifier: 100%
-[20:17:11] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[20:17:11] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[20:17:11] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[20:17:11] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[20:17:11] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[20:17:11] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[20:17:11] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[20:17:11] [Server thread/INFO]: Experience Merge Radius: 3.0
-[20:17:11] [Server thread/INFO]: Max TNT Explosions: 100
-[20:17:11] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[20:17:16] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[20:17:16] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[20:17:16] [Server thread/INFO]: View Distance: 10
-[20:17:16] [Server thread/INFO]: Simulation Distance: 10
-[20:17:16] [Server thread/INFO]: Item Despawn Rate: 6000
-[20:17:16] [Server thread/INFO]: Item Merge Radius: 2.5
-[20:17:16] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[20:17:16] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[20:17:16] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[20:17:16] [Server thread/INFO]: Mob Spawn Range: 6
-[20:17:16] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[20:17:16] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[20:17:16] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[20:17:16] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[20:17:16] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[20:17:16] [Server thread/INFO]: Cane Growth Modifier: 100%
-[20:17:16] [Server thread/INFO]: Melon Growth Modifier: 100%
-[20:17:16] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[20:17:16] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[20:17:16] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[20:17:16] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[20:17:16] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[20:17:16] [Server thread/INFO]: Potato Growth Modifier: 100%
-[20:17:16] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[20:17:16] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[20:17:16] [Server thread/INFO]: Vine Growth Modifier: 100%
-[20:17:16] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[20:17:16] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[20:17:16] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[20:17:16] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[20:17:16] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
-[20:17:16] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
-[20:17:16] [Server thread/INFO]: CaveVines Growth Modifier: 100%
-[20:17:16] [Server thread/INFO]: Experience Merge Radius: 3.0
-[20:17:16] [Server thread/INFO]: Max TNT Explosions: 100
-[20:17:16] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[20:17:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:17:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:17:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:17:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:17:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:17:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:17:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:17:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:17:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:17:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:17:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:17:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:17:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:17:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:17:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:17:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:17:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:17:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:17:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:17:25] [Server thread/INFO]: Time elapsed: 9132 ms
-[20:17:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[20:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:17:29] [Server thread/INFO]: Time elapsed: 3721 ms
-[20:17:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[20:17:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:17:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:17:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:17:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:17:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:17:31] [Worker-Main-1/INFO]: Preparing spawn area: 21%
-[20:17:32] [Server thread/INFO]: Time elapsed: 2618 ms
-[20:17:32] [Server thread/INFO]: [MarriageMaster] Enabling MarriageMaster v2.7.0.2-Release
-[20:17:32] [Server thread/INFO]: [MarriageMaster] Starting Marriage Master in standalone mode!
-[20:17:32] [Server thread/INFO]: [MarriageMaster] [32mConfig file successfully loaded.[0m
-[20:17:32] [Server thread/INFO]: [MarriageMaster] No compatible backpack plugin found.
-[20:17:32] [Server thread/INFO]: [MarriageMaster] [32mLanguage file successfully loaded. Language: English  Author: GeorgH93[0m
-[20:17:32] [Server thread/INFO]: MarriageMaster-Connection-Pool - Starting...
-[20:17:32] [Server thread/INFO]: MarriageMaster-Connection-Pool - Start completed.
-[20:17:32] [Thread-12/INFO]: [MarriageMaster] Loading marriages ...
-[20:17:32] [Thread-12/INFO]: [MarriageMaster] Marriages loaded
-[20:17:32] [Thread-12/INFO]: [MarriageMaster] Loading priests ...
-[20:17:32] [Thread-12/INFO]: [MarriageMaster] Priests loaded
-[20:17:32] [Thread-12/INFO]: [MarriageMaster] Loading players ...
-[20:17:32] [Thread-12/INFO]: [MarriageMaster] Players loaded
-[20:17:32] [Thread-12/INFO]: [MarriageMaster] Writing marriages into cache ...
-[20:17:32] [Thread-12/INFO]: [MarriageMaster] Marriages loaded into cache
-[20:17:32] [Thread-12/INFO]: [MarriageMaster] Loading homes ...
-[20:17:32] [Thread-12/INFO]: [MarriageMaster] Homes loaded
-[20:17:32] [Server thread/INFO]: [MarriageMaster] [32mItem name language file successfully loaded. Language: english  Author: GeorgH93[0m
-[20:17:32] [Server thread/INFO]: [MarriageMaster] Loading item translations ...
-[20:17:32] [Server thread/INFO]: [MarriageMaster] Finished loading item translations for 828 items.
-[20:17:32] [Server thread/INFO]: [MarriageMaster] [32m Marriage Master has been enabled! [33m :) [0m
-[20:17:32] [Server thread/INFO]: [dynmap] Enabling dynmap v3.6-899
-[20:17:33] [Server thread/INFO]: [dynmap] Added 20 custom biome mappings
-[20:17:33] [Server thread/INFO]: [dynmap] Using Vault provider SuperPerms for access control
-[20:17:33] [Server thread/INFO]: [dynmap] Mod Support processing completed
-[20:17:36] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
-[20:17:36] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
-[20:17:36] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
-[20:17:36] [Server thread/INFO]: [dynmap] Starting enter/exit processing
-[20:17:37] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
-[20:17:37] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
-[20:17:37] [Server thread/INFO]: [dynmap] version 3.6-899 is enabled - core version 3.6-899
-[20:17:37] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
-[20:17:37] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://universeodon.com/@dynmap
-[20:17:37] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
-[20:17:37] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
-[20:17:37] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
-[20:17:37] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
-[20:17:37] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
-[20:17:37] [Server thread/INFO]: [dynmap] Enabled
-[20:17:37] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
-[20:17:37] [Server thread/INFO]: You are running a server with limited API functionality. EssentialsX will still work, but certain features may be disabled.
-[20:17:37] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
-[20:17:37] [Server thread/INFO]: No kits found to migrate.
-[20:17:37] [Server thread/INFO]: Starting Essentials ban format conversion
-[20:17:37] [Server thread/INFO]: Found 1 files to convert...
-[20:17:37] [Server thread/INFO]: Converted 0/1
-[20:17:37] [Server thread/INFO]: Ban format update complete.
-[20:17:37] [Server thread/INFO]: Attempting to migrate ignore list to UUIDs
-[20:17:37] [Server thread/INFO]: Done converting ignore list.
-[20:17:37] [Server thread/INFO]: Attempting to migrate legacy userdata keys to Configurate
-[20:17:37] [Server thread/INFO]: Done converting legacy userdata keys to Configurate.
-[20:17:37] [Server thread/INFO]: Done converting mail list.
-[20:17:37] [Server thread/INFO]: #===========================================================================#
-[20:17:37] [Server thread/INFO]:  EssentialsX will now purge any NPC accounts which were incorrectly created.
-[20:17:37] [Server thread/INFO]:  Only NPC accounts with the default starting balance will be deleted. If
-[20:17:37] [Server thread/INFO]:  they turn out to be valid NPC accounts, they will be re-created as needed.
-[20:17:37] [Server thread/INFO]:  Any files deleted here will be backed up to the 
-[20:17:37] [Server thread/INFO]:  "plugins/Essentials/userdata-npc-backup" folder. If you notice any files
-[20:17:37] [Server thread/INFO]:  have been purged incorrectly, you should restore it from the backup and
-[20:17:37] [Server thread/INFO]:  report it to us on GitHub:
-[20:17:37] [Server thread/INFO]:  https://github.com/EssentialsX/Essentials/issues/new/choose
-[20:17:37] [Server thread/INFO]: 
-[20:17:37] [Server thread/INFO]:  NOTE: This is a one-time process and will take several minutes if you have
-[20:17:37] [Server thread/INFO]:  a lot of userdata files! If you interrupt this process, EssentialsX will
-[20:17:37] [Server thread/INFO]:  skip the process until you rename or remove the backup folder.
-[20:17:37] [Server thread/INFO]: #===========================================================================#
-[20:17:37] [Server thread/INFO]: Found ~1 files under "plugins/Essentials/userdata"...
-[20:17:37] [Server thread/INFO]: #===========================================================================#
-[20:17:37] [Server thread/INFO]:  EssentialsX has finished purging NPC accounts.
-[20:17:37] [Server thread/INFO]: 
-[20:17:37] [Server thread/INFO]:  Deleted accounts: 0
-[20:17:37] [Server thread/INFO]:  Total accounts processed: 1
-[20:17:37] [Server thread/INFO]: 
-[20:17:37] [Server thread/INFO]:  Purged accounts have been backed up to
-[20:17:37] [Server thread/INFO]:  "plugins/Essentials/userdata-npc-backup", and can be restored from there
-[20:17:37] [Server thread/INFO]:  if needed. Please report any files which have been incorrectly deleted
-[20:17:37] [Server thread/INFO]:  to us on GitHub:
-[20:17:37] [Server thread/INFO]:  https://github.com/EssentialsX/Essentials/issues/new/choose
-[20:17:37] [Server thread/INFO]: #===========================================================================#
-[20:17:37] [Server thread/INFO]: Loaded 39094 items from items.json.
-[20:17:37] [Server thread/INFO]: Using locale en
-[20:17:37] [Server thread/INFO]: ServerListPingEvent: Spigot iterator API
-[20:17:37] [Server thread/INFO]: Starting Metrics. Opt-out using the global bStats config.
-[20:17:37] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
-[20:17:37] [Server thread/INFO]: Using superperms-based permissions.
-[20:17:37] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[20:17:38] [Server thread/INFO]: Done (27.423s)! For help, type "help"
-[20:17:38] [Server thread/INFO]: Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
-[20:17:38] [Craft Scheduler Thread - 0/INFO]: §6Fetching version information...
-[20:17:38] [Craft Scheduler Thread - 1/INFO]: [Vault] Checking for Updates ... 
-[20:17:38] [Craft Scheduler Thread - 1/INFO]: [Vault] No new version available
-[20:32:26] [User Authenticator #1/INFO]: UUID of player clutch2dope is b962a643-ce32-440d-8004-e4999901efb3
-[20:32:26] [Server thread/INFO]: clutch2dope[/98.219.133.237:61294] logged in with entity id 260 at ([world]-459.0582732826162, 80.0, 177.9171583082737)
-[20:32:27] [Server thread/INFO]: Welcome to the beastly realm, clutch2dope, there are 1 players currently crafting the day away![m
-[20:33:03] [Server thread/INFO]: clutch2dope issued server command: /help
-[20:33:03] [Server thread/INFO]: §cclutch2dope §4was denied access to command.
-[20:33:06] [Server thread/INFO]: clutch2dope issued server command: /help
-[20:33:06] [Server thread/INFO]: §cclutch2dope §4was denied access to command.
-[20:33:07] [Server thread/INFO]: clutch2dope issued server command: /say
-[20:33:09] [Server thread/INFO]: clutch2dope issued server command: /whisper
-[20:33:09] [Server thread/INFO]: §cclutch2dope §4was denied access to command.
-[20:33:21] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
-[20:33:26] [Server thread/INFO]: clutch2dope lost connection: Disconnected
-[20:33:26] [Server thread/INFO]: Farewell to this realm, clutch2dope
+[00:49:14] [Server thread/INFO]: [Not Secure] [Server] yeo
+[00:49:17] [Server thread/INFO]: CONSOLE issued server command: /online 
+[00:49:17] [Server thread/INFO]: [0;33;22mThere are [0;31;1m0[0;33;22m out of maximum [0;31;1m20[0;33;22m players online.[m
+[01:55:01] [User Authenticator #3/INFO]: UUID of player forbritzeo is 393bbe0c-6db7-4404-a457-b64ee0fe48e9
+[01:55:01] [Server thread/INFO]: Created a User for forbritzeo (393bbe0c-6db7-4404-a457-b64ee0fe48e9) for non Bukkit type: org.bukkit.craftbukkit.v1_20_R1.entity.CraftPlayer
+[01:55:01] [Server thread/INFO]: forbritzeo[/75.102.66.200:51327] logged in with entity id 707 at ([world]-452.0669100897416, 59.0, 174.83593223407388)
+[01:55:02] [Server thread/INFO]: Welcome to the beastly realm, forbritzeo, there are 1 players currently crafting the day away![m
+[01:59:04] [User Authenticator #4/INFO]: UUID of player cjdaman21 is e39119b3-8c1c-4a2c-b544-e2c8ee301b0d
+[01:59:04] [Server thread/INFO]: Created a User for cjdaman21 (e39119b3-8c1c-4a2c-b544-e2c8ee301b0d) for non Bukkit type: org.bukkit.craftbukkit.v1_20_R1.entity.CraftPlayer
+[01:59:05] [Server thread/INFO]: cjdaman21[/73.183.112.179:60685] logged in with entity id 1351 at ([world]-436.5414185301623, 66.0, 159.9563149075109)
+[01:59:05] [Server thread/INFO]: Welcome to the beastly realm, cjdaman21, there are 2 players currently crafting the day away![m
+[01:59:23] [Async Chat Thread - #3/INFO]: <cjdaman21> bruh[m
+[01:59:28] [Async Chat Thread - #4/INFO]: <forbritzeo> fr fr[m
+[01:59:44] [Server thread/INFO]: cjdaman21 has made the advancement [A Seedy Place]
+[02:07:11] [Async Chat Thread - #6/INFO]: <cjdaman21> how big is this desert?[m
+[02:08:20] [Async Chat Thread - #7/INFO]: <cjdaman21> get ready to sleep[m
+[02:08:29] [Server thread/INFO]: forbritzeo lost connection: Disconnected
+[02:08:29] [Server thread/INFO]: Farewell to this realm, forbritzeo
+[02:08:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@4f604a37[id=<null>,name=forbritzeo,properties={},legacy=false] (/75.102.66.200:51399) lost connection: Disconnected
+[02:08:52] [User Authenticator #5/INFO]: UUID of player forbritzeo is 393bbe0c-6db7-4404-a457-b64ee0fe48e9
+[02:08:52] [Server thread/INFO]: forbritzeo[/75.102.66.200:51401] logged in with entity id 4509 at ([world]-495.9289290175214, -21.0, 179.62449655116512)
+[02:08:53] [Server thread/INFO]: Welcome to the beastly realm, forbritzeo, there are 2 players currently crafting the day away![m
+[02:09:16] [Async Chat Thread - #8/INFO]: <forbritzeo> i am deep[m
+[02:09:22] [Async Chat Thread - #8/INFO]: <cjdaman21> huhb?[m
+[02:09:46] [User Authenticator #6/INFO]: UUID of player Cestroid is 639b2c9b-c65b-46ad-92f6-c6d9320b2bd8
+[02:09:46] [Server thread/INFO]: Cestroid[/73.245.111.30:51599] logged in with entity id 4952 at ([world]-432.10476758296613, 77.0, 145.34302392536313)
+[02:09:46] [Server thread/INFO]: Welcome to the beastly realm, Cestroid, there are 3 players currently crafting the day away![m
+[02:10:02] [Async Chat Thread - #8/INFO]: <Cestroid> whatt up beasts[m
+[02:10:07] [Async Chat Thread - #8/INFO]: <cjdaman21> piss/[m
+[02:10:08] [Async Chat Thread - #8/INFO]: <cjdaman21> ?[m
+[02:10:09] [Async Chat Thread - #8/INFO]: <Cestroid> heppy holidays[m
+[02:10:19] [Async Chat Thread - #7/INFO]: <Cestroid> when LB go sleep[m
+[02:10:33] [Async Chat Thread - #8/INFO]: <Cestroid> no clue when that be[m
+[02:10:39] [Async Chat Thread - #7/INFO]: <cjdaman21> ugh[m
+[02:10:43] [Async Chat Thread - #8/INFO]: <forbritzeo> how much redstone dust you think this would make?[m
+[02:10:49] [Async Chat Thread - #7/INFO]: <forbritzeo> they just hit the 2nd tower[m
+[02:11:08] [Async Chat Thread - #7/INFO]: <Cestroid> NOOOOOO THE CLUTCH PODS[m
+[02:11:38] [Async Chat Thread - #7/INFO]: <cjdaman21> did lucas make this entire world mesas and desert?[m
+[02:11:45] [Async Chat Thread - #7/INFO]: <forbritzeo> rando seed prolly[m
+[02:11:47] [Async Chat Thread - #8/INFO]: <Cestroid> lol no clue...[m
+[02:12:00] [Async Chat Thread - #7/INFO]: <cjdaman21> im thousand of blocks away and im still in a mesa[m
+[02:12:06] [Async Chat Thread - #7/INFO]: <Cestroid> breh[m
+[02:12:09] [Async Chat Thread - #7/INFO]: <forbritzeo> dope[m
+[02:12:18] [Async Chat Thread - #8/INFO]: <Cestroid> im just glad we found wood[m
+[02:12:34] [Async Chat Thread - #7/INFO]: <Cestroid> u see the clutch ass tree farm lucas and i put up[m
+[02:12:40] [Async Chat Thread - #8/INFO]: <Cestroid> behind the towers[m
+[02:12:45] [Async Chat Thread - #8/INFO]: <forbritzeo> excuse me roid[m
+[02:12:59] [Async Chat Thread - #8/INFO]: <Cestroid> excused[m
+[02:13:02] [Async Chat Thread - #7/INFO]: <forbritzeo> oh did you make it bigger after i left?[m
+[02:13:05] [Async Chat Thread - #7/INFO]: <forbritzeo> i planted a bunch[m
+[02:13:30] [Async Chat Thread - #7/INFO]: <Cestroid> oh yeh we demolished yours and built a more uniform one[m
+[02:13:38] [Async Chat Thread - #7/INFO]: <forbritzeo> understandable[m
+[02:13:52] [Async Chat Thread - #8/INFO]: <Cestroid> where yall at[m
+[02:13:56] [Async Chat Thread - #7/INFO]: <forbritzeo> deep[m
+[02:14:07] [Async Chat Thread - #7/INFO]: <forbritzeo> -519, -45, 179[m
+[02:15:27] [Async Chat Thread - #9/INFO]: <forbritzeo> name jeff[m
+[02:15:27] [Async Chat Thread - #10/INFO]: <Cestroid> AHH[m
+[02:15:38] [Async Chat Thread - #9/INFO]: <Cestroid> GARBAGE DAY[m
+[02:16:00] [Async Chat Thread - #10/INFO]: <cjdaman21> finally found a plains biome[m
+[02:17:22] [Async Chat Thread - #11/INFO]: <forbritzeo> snotrockets! my iron pick brok[m
+[02:17:38] [Craft Scheduler Thread - 12/INFO]: [Vault] Checking for Updates ... 
+[02:17:38] [Craft Scheduler Thread - 12/INFO]: [Vault] No new version available
+[02:18:53] [Async Chat Thread - #13/INFO]: <cjdaman21> sleep soon[m
+[02:19:06] [Async Chat Thread - #13/INFO]: <cjdaman21> schleep[m
+[02:19:09] [Server thread/INFO]: forbritzeo lost connection: Disconnected
+[02:19:09] [Server thread/INFO]: Farewell to this realm, forbritzeo
+[02:19:15] [User Authenticator #7/INFO]: UUID of player forbritzeo is 393bbe0c-6db7-4404-a457-b64ee0fe48e9
+[02:19:15] [Server thread/INFO]: forbritzeo[/75.102.66.200:51425] logged in with entity id 9907 at ([world]-534.1629929588925, -59.0, 179.57564742183413)
+[02:19:15] [Server thread/INFO]: Welcome to the beastly realm, forbritzeo, there are 3 players currently crafting the day away![m
+[02:19:31] [Async Chat Thread - #13/INFO]: <Cestroid> dope ass messages[m
+[02:19:41] [Async Chat Thread - #13/INFO]: <forbritzeo> whats the leaving one[m
+[02:19:54] [Async Chat Thread - #13/INFO]: <cjdaman21> farewell to this realm, forbritzeo[m
+[02:20:00] [Async Chat Thread - #14/INFO]: <forbritzeo> or just leave for a sec[m
+[02:20:03] [Async Chat Thread - #13/INFO]: <forbritzeo> ah dope[m
+[02:20:04] [Server thread/INFO]: Cestroid lost connection: Disconnected
+[02:20:04] [Server thread/INFO]: Farewell to this realm, Cestroid
+[02:20:07] [User Authenticator #8/INFO]: UUID of player Cestroid is 639b2c9b-c65b-46ad-92f6-c6d9320b2bd8
+[02:20:07] [Server thread/INFO]: Cestroid[/73.245.111.30:51657] logged in with entity id 10343 at ([world]-475.0016574895561, 64.0, 168.75590453021275)
+[02:20:07] [Server thread/INFO]: Welcome to the beastly realm, Cestroid, there are 3 players currently crafting the day away![m
+[02:20:20] [Async Chat Thread - #14/INFO]: <forbritzeo> aint even a realm[m
+[02:20:30] [Async Chat Thread - #14/INFO]: <Cestroid> lel right[m
+[02:22:24] [Async Chat Thread - #15/INFO]: <cjdaman21> if i come back i have melon seeds, potatos, carrots, and bamboo[m
+[02:23:07] [Async Chat Thread - #15/INFO]: <forbritzeo> lel i found diamond but aint got an iron pik[m
+[02:24:24] [Server thread/INFO]: cjdaman21 has made the advancement [The Parrots and the Bats]
+[02:24:45] [Server thread/INFO]: cjdaman21 fell from a high place
+[02:24:56] [Async Chat Thread - #17/INFO]: <Cestroid> dude\[m
+[02:24:58] [Async Chat Thread - #18/INFO]: <cjdaman21> that is retarded[m
+[02:25:05] [Async Chat Thread - #18/INFO]: <forbritzeo> L[m
+[02:25:07] [Async Chat Thread - #18/INFO]: <cjdaman21> you die from falling onto a boat[m
+[02:29:48] [Async Chat Thread - #19/INFO]: <cjdaman21> sleep[m
+[02:29:52] [Server thread/INFO]: Cestroid lost connection: Disconnected
+[02:29:52] [Server thread/INFO]: Farewell to this realm, Cestroid
+[02:30:04] [Async Chat Thread - #19/INFO]: <cjdaman21> sleeeeep[m
+[02:30:15] [Async Chat Thread - #19/INFO]: <forbritzeo> SHUT UP[m
+[02:30:22] [Async Chat Thread - #19/INFO]: <cjdaman21> no u[m
+[02:30:30] [Async Chat Thread - #19/INFO]: <cjdaman21> XD[m
+[02:31:06] [User Authenticator #9/INFO]: UUID of player Cestroid is 639b2c9b-c65b-46ad-92f6-c6d9320b2bd8
+[02:31:07] [Server thread/INFO]: Cestroid[/73.245.111.30:51716] logged in with entity id 17742 at ([world]-368.54295626668653, -5.0, 197.98098019390392)
+[02:31:07] [Server thread/INFO]: Welcome to the beastly realm, Cestroid, there are 3 players currently crafting the day away![m
+[02:31:26] [Server thread/INFO]: Cestroid has made the advancement [Suit Up]
+[02:31:36] [Async Chat Thread - #19/INFO]: <forbritzeo> big man in a suit of armor[m
+[02:31:52] [Async Chat Thread - #19/INFO]: <Cestroid> truethly[m
+[02:36:21] [Server thread/INFO]: forbritzeo has made the advancement [Diamonds!]
+[02:36:54] [Async Chat Thread - #22/INFO]: <Cestroid> dope ass shit[m
+[02:36:58] [Async Chat Thread - #22/INFO]: <forbritzeo> flex[m
+[02:38:09] [Async Chat Thread - #24/INFO]: <Cestroid> lets flex on em ap[m
+[02:38:12] [Server thread/INFO]: Cestroid has made the advancement [Diamonds!]
+[02:38:20] [Async Chat Thread - #25/INFO]: <forbritzeo> dope ass shit[m
+[02:38:28] [Async Chat Thread - #25/INFO]: <Cestroid> thanks my boy\[m
+[02:38:42] [Async Chat Thread - #25/INFO]: <Cestroid> real shit[m
+[02:38:44] [Async Chat Thread - #24/INFO]: <cjdaman21> got back to my stuff[m
+[02:38:50] [Async Chat Thread - #24/INFO]: <Cestroid> dope cj[m
+[02:39:29] [Server thread/WARN]: Boat (vehicle of cjdaman21) moved wrongly! 0.4648533911104096
+[02:40:03] [Server thread/INFO]: CONSOLE issued server command: /online 
+[02:40:03] [Server thread/INFO]: [0;33;22mThere are [0;31;1m3[0;33;22m out of maximum [0;31;1m20[0;33;22m players online.[m
+[02:40:03] [Server thread/INFO]: [0;33;22mdefault[m: Cestroid[0;37;1m, cjdaman21[0;37;1m, forbritzeo[0;37;1m[m
+[02:40:06] [Server thread/INFO]: CONSOLE issued server command: /broadcast 
+[02:40:06] [Server thread/INFO]: [0;33;22mCommand Help: [0;37;1m/broadcast[m
+[02:40:06] [Server thread/INFO]: [0;33;22mDescription: [0;37;1mBroadcasts a message to the entire server.[m
+[02:40:06] [Server thread/INFO]: [0;33;22mUsage(s);[m
+[02:40:06] [Server thread/INFO]: /broadcast [0;33;1m<message>[m [0;33;22m- Broadcasts the given message to the entire server[m
+[02:40:10] [Server thread/INFO]: CONSOLE issued server command: /broadcast sup cheddas
+[02:40:24] [Async Chat Thread - #26/INFO]: <forbritzeo> shut up nigga[m
+[02:40:29] [Async Chat Thread - #27/INFO]: <cjdaman21> you cant say that[m
+[02:40:35] [Async Chat Thread - #27/INFO]: <forbritzeo> i just did[m
+[02:40:38] [Server thread/INFO]: [0;32;22m[WEB] 104.28.76.139: [0;37;1mfrfr[m
+[02:40:45] [Async Chat Thread - #27/INFO]: <cjdaman21> well youre not allowed[m
+[02:40:50] [Async Chat Thread - #27/INFO]: <Cestroid> boss ass shit[m
+[02:40:53] [Async Chat Thread - #27/INFO]: <forbritzeo> whare you gonna do>[m
+[02:41:03] [Async Chat Thread - #27/INFO]: <cjdaman21> i will steal your diamonds[m
+[02:41:17] [Async Chat Thread - #27/INFO]: <forbritzeo> come and get up[m
+[02:41:21] [Server thread/INFO]: /dynmap - Control execution of dynmap.[m
+[02:41:21] [Server thread/INFO]:  Valid subcommands:  add-id-for-ip cancelrender del-id-for-ip dumpmemory fullrender hide ids-for-ip ips-for-id pause purgemap purgequeue purgeworld quiet radiusrender render resetstats sendtoweb show stats triggerstats updaterender url version webregister[m
+[02:41:25] [Async Chat Thread - #27/INFO]: <Cestroid> he finna pull up to pennstate[m
+[02:41:32] [Server thread/INFO]: World name is required[m
+[02:41:34] [Async Chat Thread - #27/INFO]: <forbritzeo> he cant wait[m
+[02:41:35] [Server thread/INFO]: Full render starting on world 'world'...[m
+[02:41:38] [Async Chat Thread - #27/INFO]: <cjdaman21> i found an abandoned village with cobweb roofs[m
+[02:41:54] [Async Chat Thread - #27/INFO]: <Cestroid> i found an abanDON mineshat[m
+[02:42:04] [Async Chat Thread - #26/INFO]: <Cestroid> too scared to go in it doe[m
+[02:42:15] [Async Chat Thread - #26/INFO]: <cjdaman21> schleep[m
+[02:42:18] [User Authenticator #10/INFO]: UUID of player clutch2dope is b962a643-ce32-440d-8004-e4999901efb3
+[02:42:18] [Server thread/INFO]: clutch2dope[/98.219.133.237:62922] logged in with entity id 25273 at ([world]-454.2361971596871, 59.0, 179.43720671484306)
+[02:42:18] [Server thread/INFO]: Welcome to the beastly realm, clutch2dope, there are 4 players currently crafting the day away![m
+[02:42:23] [Async Chat Thread - #26/INFO]: <cjdaman21> sleep[m
+[02:42:24] [Async Chat Thread - #26/INFO]: <clutch2dope> sup clurches[m
+[02:42:25] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 100 tiles rendered (448.76 msec/tile, 386.21 msec per render)[m
+[02:42:29] [Async Chat Thread - #27/INFO]: <clutch2dope> #2[m
+[02:42:31] [Server thread/INFO]: forbritzeo lost connection: Disconnected
+[02:42:31] [Server thread/INFO]: Farewell to this realm, forbritzeo
+[02:42:33] [Server thread/INFO]: Cestroid lost connection: Disconnected
+[02:42:33] [Server thread/INFO]: Farewell to this realm, Cestroid
+[02:42:40] [User Authenticator #11/INFO]: UUID of player forbritzeo is 393bbe0c-6db7-4404-a457-b64ee0fe48e9
+[02:42:41] [Server thread/INFO]: forbritzeo[/75.102.66.200:51470] logged in with entity id 25412 at ([world]-534.724199081775, -59.0, 181.0029027933046)
+[02:42:41] [Server thread/INFO]: Welcome to the beastly realm, forbritzeo, there are 3 players currently crafting the day away![m
+[02:42:43] [User Authenticator #12/INFO]: UUID of player Cestroid is 639b2c9b-c65b-46ad-92f6-c6d9320b2bd8
+[02:42:43] [Server thread/INFO]: Cestroid[/73.245.111.30:51781] logged in with entity id 25447 at ([world]-322.05392532006596, -2.0, 220.81777321256013)
+[02:42:43] [Server thread/INFO]: Welcome to the beastly realm, Cestroid, there are 4 players currently crafting the day away![m
+[02:43:01] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 200 tiles rendered (395.11 msec/tile, 331.25 msec per render)[m
+[02:43:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5038ms or 100 ticks behind
+[02:43:50] [Async Chat Thread - #28/INFO]: <cjdaman21> peacee[m
+[02:43:52] [Server thread/INFO]: cjdaman21 lost connection: Disconnected
+[02:43:52] [Server thread/INFO]: Farewell to this realm, cjdaman21
+[02:44:01] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 300 tiles rendered (438.42 msec/tile, 365.06 msec per render)[m
+[02:44:30] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 400 tiles rendered (399.97 msec/tile, 327.54 msec per render)[m
+[02:45:06] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 500 tiles rendered (390.20 msec/tile, 318.01 msec per render)[m
+[02:45:09] [Async Chat Thread - #30/INFO]: <clutch2dope> what the rip[m
+[02:45:14] [Async Chat Thread - #30/INFO]: <forbritzeo> deep rip[m
+[02:45:24] [Async Chat Thread - #30/INFO]: <clutch2dope> 2dope![m
+[02:45:33] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 600 tiles rendered (369.12 msec/tile, 300.52 msec per render)[m
+[02:45:34] [Async Chat Thread - #30/INFO]: <forbritzeo> roid and i got diamonds[m
+[02:45:41] [Server thread/INFO]: [0;32;22m[WEB] 104.28.76.139: [0;37;1mclutch[m
+[02:45:58] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 700 tiles rendered (350.93 msec/tile, 285.68 msec per render)[m
+[02:46:16] [Server thread/INFO]: [0;32;22m[WEB] cjdaman21: [0;37;1mNo[m
+[02:46:23] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 800 tiles rendered (338.18 msec/tile, 275.49 msec per render)[m
+[02:46:25] [Async Chat Thread - #30/INFO]: <Cestroid> lel[m
+[02:46:26] [Async Chat Thread - #30/INFO]: <clutch2dope> lame ass nigga[m
+[02:46:27] [Async Chat Thread - #30/INFO]: <forbritzeo> what is this web[m
+[02:46:30] [Server thread/INFO]: [Not Secure] [Server] fr fr
+[02:46:40] [Async Chat Thread - #31/INFO]: <clutch2dope> http://mc.clutchpad.click:8123[m
+[02:46:42] [Server thread/INFO]: [0;32;22m[WEB] cjdaman21: [0;37;1m/ban clutch2dope[m
+[02:46:50] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 900 tiles rendered (330.47 msec/tile, 269.25 msec per render)[m
+[02:46:59] [Async Chat Thread - #30/INFO]: <Cestroid> well[m
+[02:47:11] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1000 tiles rendered (318.32 msec/tile, 259.00 msec per render)[m
+[02:47:14] [Server thread/INFO]: [0;32;22m[WEB] cjdaman21: [0;37;1m/give forbritzeo aids[m
+[02:47:21] [Server thread/INFO]: Cestroid issued server command: /lol
+[02:47:29] [Server thread/INFO]: Cestroid issued server command: / lol
+[02:47:30] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1100 tiles rendered (304.95 msec/tile, 247.09 msec per render)[m
+[02:47:37] [Server thread/INFO]: Cestroid issued server command: /lol
+[02:47:54] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1200 tiles rendered (298.64 msec/tile, 241.55 msec per render)[m
+[02:48:00] [Async Chat Thread - #32/INFO]: <forbritzeo> gravel city![m
+[02:48:08] [Async Chat Thread - #33/INFO]: <clutch2dope> 2 dope![m
+[02:48:14] [Async Chat Thread - #33/INFO]: <Cestroid> yeo clutch 2 dope[m
+[02:48:14] [Server thread/INFO]: [0;32;22m[WEB] 104.28.76.139: [0;37;1mclutch[m
+[02:48:18] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1300 tiles rendered (293.10 msec/tile, 237.04 msec per render)[m
+[02:48:20] [Async Chat Thread - #33/INFO]: <clutch2dope> yeo?[m
+[02:48:24] [Async Chat Thread - #33/INFO]: <Cestroid> wyd][m
+[02:48:24] [Server thread/INFO]: [Not Secure] [Server] fr fr
+[02:48:30] [Async Chat Thread - #33/INFO]: <clutch2dope> at clutchpad rn[m
+[02:48:39] [Async Chat Thread - #32/INFO]: <clutch2dope> maybe gonna go cj and mine[m
+[02:48:41] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1400 tiles rendered (288.39 msec/tile, 233.15 msec per render)[m
+[02:48:42] [Async Chat Thread - #32/INFO]: <forbritzeo> im deep under cluth pad[m
+[02:48:55] [Async Chat Thread - #32/INFO]: <Cestroid> dope ass shit. i went down the clutch hole in the clutch pad[m
+[02:48:57] [Async Chat Thread - #32/INFO]: <forbritzeo> follow steps down[m
+[02:49:04] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1500 tiles rendered (284.23 msec/tile, 229.72 msec per render)[m
+[02:49:08] [Async Chat Thread - #32/INFO]: <clutch2dope> don[m
+[02:49:08] [Async Chat Thread - #33/INFO]: <forbritzeo> im making a mining area down here[m
+[02:49:16] [Async Chat Thread - #32/INFO]: <Cestroid> dope ass shit[m
+[02:49:19] [Async Chat Thread - #32/INFO]: <clutch2dope> 2 dope![m
+[02:49:28] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1600 tiles rendered (280.59 msec/tile, 226.90 msec per render)[m
+[02:49:36] [Async Chat Thread - #33/INFO]: <clutch2dope> this shit go way down[m
+[02:49:44] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1700 tiles rendered (273.41 msec/tile, 220.48 msec per render)[m
+[02:49:50] [Async Chat Thread - #33/INFO]: <forbritzeo> -59 chedda[m
+[02:50:00] [Async Chat Thread - #33/INFO]: <forbritzeo> needs stairs or rails[m
+[02:50:07] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1800 tiles rendered (270.21 msec/tile, 217.68 msec per render)[m
+[02:50:27] [Async Chat Thread - #33/INFO]: <clutch2dope> this cave dinsane[m
+[02:50:31] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1900 tiles rendered (267.93 msec/tile, 215.84 msec per render)[m
+[02:50:53] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2000 tiles rendered (265.58 msec/tile, 213.70 msec per render)[m
+[02:51:15] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2100 tiles rendered (263.07 msec/tile, 211.69 msec per render)[m
+[02:51:16] [Async Chat Thread - #33/INFO]: <clutch2dope> 2 dope![m
+[02:51:30] [Async Chat Thread - #33/INFO]: <clutch2dope> tf is all this new shite[m
+[02:51:36] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2200 tiles rendered (260.49 msec/tile, 209.40 msec per render)[m
+[02:51:44] [Async Chat Thread - #33/INFO]: <Cestroid> yeo vro\[m
+[02:51:58] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2300 tiles rendered (258.48 msec/tile, 207.71 msec per render)[m
+[02:52:19] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2400 tiles rendered (256.42 msec/tile, 206.09 msec per render)[m
+[02:52:23] [Async Chat Thread - #33/INFO]: <Cestroid> dang vreh how u survive dat\[m
+[02:52:35] [Async Chat Thread - #33/INFO]: <clutch2dope> ima beast[m
+[02:52:40] [Server thread/INFO]: [Not Secure] [Server] fr fr
+[02:52:41] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2500 tiles rendered (254.66 msec/tile, 204.53 msec per render)[m
+[02:52:47] [Server thread/INFO]: [0;32;22m[WEB] 104.28.78.140: [0;37;1m2 𝒅𝒐𝒑𝒆![m
+[02:53:03] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2600 tiles rendered (253.22 msec/tile, 203.42 msec per render)[m
+[02:53:14] [Async Chat Thread - #33/INFO]: <clutch2dope> wya nigga[m
+[02:53:28] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2700 tiles rendered (252.90 msec/tile, 202.24 msec per render)[m
+[02:53:36] [Async Chat Thread - #33/INFO]: <forbritzeo> -548, -59, 183[m
+[02:53:53] [Async Chat Thread - #33/INFO]: <clutch2dope> shit ends nigga[m
+[02:53:54] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2800 tiles rendered (253.03 msec/tile, 201.56 msec per render)[m
+[02:54:08] [Async Chat Thread - #33/INFO]: <forbritzeo> oh theres a nother stairs i aint gone down[m
+[02:54:08] [Async Chat Thread - #33/INFO]: <Cestroid> its a new beginning[m
+[02:54:20] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2900 tiles rendered (252.96 msec/tile, 201.54 msec per render)[m
+[02:54:24] [Async Chat Thread - #33/INFO]: <forbritzeo> go down a few steps from clutch pad and turn around i went that way[m
+[02:54:30] [Async Chat Thread - #33/INFO]: <clutch2dope> nah i wit roids[m
+[02:54:38] [Async Chat Thread - #33/INFO]: <clutch2dope> MINDSHAFT![m
+[02:54:46] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3000 tiles rendered (252.87 msec/tile, 201.57 msec per render)[m
+[02:55:12] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3100 tiles rendered (252.97 msec/tile, 201.96 msec per render)[m
+[02:55:23] [Async Chat Thread - #33/INFO]: <Cestroid> YEO\[m
+[02:55:32] [Async Chat Thread - #32/INFO]: <Cestroid> over here[m
+[02:55:33] [Async Chat Thread - #32/INFO]: <clutch2dope> ZANGGGG[m
+[02:55:37] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3200 tiles rendered (252.56 msec/tile, 201.75 msec per render)[m
+[02:55:40] [Async Chat Thread - #32/INFO]: <clutch2dope> GEMC CITY![m
+[02:55:54] [Async Chat Thread - #33/INFO]: <Cestroid> dont brealk it[m
+[02:55:58] [Async Chat Thread - #32/INFO]: <clutch2dope> why[m
+[02:56:00] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3300 tiles rendered (251.71 msec/tile, 200.96 msec per render)[m
+[02:56:02] [Async Chat Thread - #32/INFO]: <Cestroid> think we need silk touch\\\[m
+[02:56:05] [Async Chat Thread - #32/INFO]: <clutch2dope> nah[m
+[02:56:10] [Async Chat Thread - #32/INFO]: <Cestroid> aite\[m
+[02:56:16] [Async Chat Thread - #32/INFO]: <Cestroid> ill snap the coords[m
+[02:56:23] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3400 tiles rendered (250.97 msec/tile, 200.33 msec per render)[m
+[02:56:49] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3500 tiles rendered (250.91 msec/tile, 200.25 msec per render)[m
+[02:57:13] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3600 tiles rendered (250.31 msec/tile, 199.69 msec per render)[m
+[02:57:38] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3700 tiles rendered (250.07 msec/tile, 199.42 msec per render)[m
+[02:57:59] [Async Chat Thread - #34/INFO]: <clutch2dope> mine-igga[m
+[02:58:04] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3800 tiles rendered (250.29 msec/tile, 199.93 msec per render)[m
+[02:58:32] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3900 tiles rendered (250.95 msec/tile, 200.65 msec per render)[m
+[02:59:01] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 4000 tiles rendered (251.64 msec/tile, 201.44 msec per render)[m
+[02:59:29] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 4100 tiles rendered (252.27 msec/tile, 202.22 msec per render)[m
+[02:59:56] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 4200 tiles rendered (252.52 msec/tile, 202.57 msec per render)[m
+[03:00:19] [Async Chat Thread - #36/INFO]: <clutch2dope> BROOOOO[m
+[03:00:21] [Async Chat Thread - #37/INFO]: <clutch2dope> BRROOOOO[m
+[03:00:23] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 4300 tiles rendered (252.67 msec/tile, 202.95 msec per render)[m
+[03:00:37] [Async Chat Thread - #37/INFO]: <Cestroid> clutch ass shit\[m
+[03:00:50] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 4400 tiles rendered (252.71 msec/tile, 203.12 msec per render)[m
+[03:01:16] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 4500 tiles rendered (252.65 msec/tile, 203.06 msec per render)[m
+[03:01:41] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 4600 tiles rendered (252.61 msec/tile, 203.09 msec per render)[m
+[03:02:06] [Async Chat Thread - #38/INFO]: <Cestroid> shits a maze[m
+[03:02:07] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 4700 tiles rendered (252.67 msec/tile, 203.19 msec per render)[m
+[03:02:34] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 4800 tiles rendered (252.67 msec/tile, 203.33 msec per render)[m
+[03:03:02] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 4900 tiles rendered (252.97 msec/tile, 203.80 msec per render)[m
+[03:03:26] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 5000 tiles rendered (252.52 msec/tile, 203.40 msec per render)[m
+[03:03:27] [Async Chat Thread - #40/INFO]: <Cestroid> found a way out[m
+[03:03:51] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 5100 tiles rendered (252.36 msec/tile, 203.44 msec per render)[m
+[03:03:52] [Async Chat Thread - #40/INFO]: <clutch2dope> wya[m
+[03:03:57] [Async Chat Thread - #41/INFO]: <forbritzeo> clutch pod[m
+[03:04:17] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 5200 tiles rendered (252.46 msec/tile, 203.56 msec per render)[m
+[03:04:29] [Async Chat Thread - #41/INFO]: <Cestroid> dude[m
+[03:04:43] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 5300 tiles rendered (252.39 msec/tile, 203.63 msec per render)[m
+[03:05:08] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 5400 tiles rendered (252.34 msec/tile, 203.66 msec per render)[m
+[03:05:34] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 5500 tiles rendered (252.25 msec/tile, 203.82 msec per render)[m
+[03:05:45] [Server thread/INFO]: clutch2dope has made the advancement [Diamonds!]
+[03:05:59] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 5600 tiles rendered (252.07 msec/tile, 203.77 msec per render)[m
+[03:06:23] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 5700 tiles rendered (251.81 msec/tile, 203.69 msec per render)[m
+[03:06:47] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 5800 tiles rendered (251.51 msec/tile, 203.54 msec per render)[m
+[03:06:59] [Async Chat Thread - #42/INFO]: <Cestroid> way out is up[m
+[03:07:12] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 5900 tiles rendered (251.29 msec/tile, 203.43 msec per render)[m
+[03:07:19] [Async Chat Thread - #43/INFO]: <clutch2dope> zamnnn[m
+[03:07:34] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 6000 tiles rendered (250.73 msec/tile, 203.02 msec per render)[m
+[03:07:59] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 6100 tiles rendered (250.54 msec/tile, 203.07 msec per render)[m
+[03:08:08] [Async Chat Thread - #43/INFO]: <Cestroid> DAMN MY INVEN WAS FULL I AINT PIC UP NO IRON[m
+[03:08:13] [Async Chat Thread - #43/INFO]: <clutch2dope> which way to clutchpods[m
+[03:08:21] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 6200 tiles rendered (250.08 msec/tile, 202.82 msec per render)[m
+[03:08:48] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 6300 tiles rendered (250.18 msec/tile, 203.10 msec per render)[m
+[03:08:51] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' completed - 6316 tiles rendered (249.96 msec/map-tile, 202.92 msec per render)[m
+[03:09:02] [Async Chat Thread - #42/INFO]: <clutch2dope> nice af[m
+[03:09:05] [Server thread/INFO]: [0;32;22m[WEB] 104.28.76.138: [0;37;1mfr fr[m
+[03:09:48] [Async Chat Thread - #42/INFO]: <Cestroid> OH NVM I JUST FORGOT WHAT THE NEW IRON LOOKED LIKE\[m
+[03:09:53] [Async Chat Thread - #43/INFO]: <clutch2dope> mhhhm[m
+[03:09:55] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 100 tiles rendered (633.55 msec/tile, 587.10 msec per render)[m
+[03:09:56] [Async Chat Thread - #43/INFO]: <clutch2dope> looks like shit[m
+[03:10:01] [Async Chat Thread - #43/INFO]: <Cestroid> litterally[m
+[03:10:10] [Async Chat Thread - #42/INFO]: <forbritzeo> petition to play on 1.2.5[m
+[03:10:13] [Async Chat Thread - #43/INFO]: <clutch2dope> EYE[m
+[03:10:15] [Async Chat Thread - #42/INFO]: <Cestroid> dope ass picaxe ape[m
+[03:10:22] [Async Chat Thread - #42/INFO]: <forbritzeo> hanks[m
+[03:10:56] [Async Chat Thread - #43/INFO]: <forbritzeo> th is this[m
+[03:11:02] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 200 tiles rendered (647.28 msec/tile, 592.49 msec per render)[m
+[03:11:02] [Async Chat Thread - #43/INFO]: <Cestroid> 9/11[m
+[03:11:08] [Async Chat Thread - #43/INFO]: <clutch2dope> nice huh[m
+[03:11:34] [Async Chat Thread - #43/INFO]: <forbritzeo> dude definately searched for a seed with twin towers[m
+[03:11:41] [Async Chat Thread - #43/INFO]: <clutch2dope> i did not lol[m
+[03:11:46] [Async Chat Thread - #43/INFO]: <clutch2dope> it was too perfect tho[m
+[03:11:54] [Async Chat Thread - #43/INFO]: <Cestroid> was literally just too perfect[m
+[03:12:06] [Async Chat Thread - #43/INFO]: <forbritzeo> can i go in da plane[m
+[03:12:11] [Async Chat Thread - #43/INFO]: <clutch2dope> mhhhmm[m
+[03:12:12] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 300 tiles rendered (658.73 msec/tile, 596.59 msec per render)[m
+[03:12:15] [Async Chat Thread - #43/INFO]: <forbritzeo> dope[m
+[03:12:16] [Async Chat Thread - #43/INFO]: <Cestroid> yeh access through tower1[m
+[03:12:16] [Async Chat Thread - #43/INFO]: <clutch2dope> left towa[m
+[03:12:42] [Async Chat Thread - #43/INFO]: <Cestroid> nothin special on inside[m
+[03:12:58] [Async Chat Thread - #43/INFO]: <Cestroid> i be really really[m
+[03:13:01] [Async Chat Thread - #43/INFO]: <Cestroid> rich![m
+[03:13:11] [Server thread/INFO]: [0;32;22m[WEB] 104.28.78.140: [0;37;1mfr fr[m
+[03:13:24] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 400 tiles rendered (674.31 msec/tile, 606.72 msec per render)[m
+[03:13:54] [Async Chat Thread - #43/INFO]: <forbritzeo> how rich[m
+[03:14:03] [Async Chat Thread - #43/INFO]: <Cestroid> i got 2 fones\[m
+[03:14:20] [Async Chat Thread - #43/INFO]: <forbritzeo> bedtime irl[m
+[03:14:20] [Async Chat Thread - #43/INFO]: <clutch2dope> why aint zachrel been on yet[m
+[03:14:22] [Async Chat Thread - #42/INFO]: <Cestroid> to the pods!![m
+[03:14:26] [Async Chat Thread - #43/INFO]: <clutch2dope> #1![m
+[03:14:35] [Async Chat Thread - #43/INFO]: <Cestroid> he dont know how proolly[m
+[03:14:37] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 500 tiles rendered (683.84 msec/tile, 613.56 msec per render)[m
+[03:14:44] [Async Chat Thread - #43/INFO]: <Cestroid> the probably lookin at tutoria[m
+[03:14:46] [Async Chat Thread - #43/INFO]: <Cestroid> l[m
+[03:14:50] [Async Chat Thread - #43/INFO]: <forbritzeo> gg[m
+[03:14:51] [Async Chat Thread - #42/INFO]: <Cestroid> a;lso wheredon[m
+[03:14:55] [Async Chat Thread - #43/INFO]: <clutch2dope> mhhhmm[m
+[03:14:57] [Async Chat Thread - #43/INFO]: <forbritzeo> (gremulous & gremus)[m
+[03:14:59] [Async Chat Thread - #43/INFO]: <clutch2dope> literally his idea[m
+[03:15:02] [Server thread/INFO]: forbritzeo lost connection: Disconnected
+[03:15:02] [Server thread/INFO]: Farewell to this realm, forbritzeo
+[03:15:09] [Async Chat Thread - #43/INFO]: <Cestroid> n\bye p[m
+[03:15:18] [Async Chat Thread - #42/INFO]: <clutch2dope> Farewell to this realm![m
+[03:15:27] [Server thread/INFO]: clutch2dope issued server command: /help
+[03:15:27] [Server thread/INFO]: §cclutch2dope §4was denied access to command.
+[03:15:31] [Async Chat Thread - #42/INFO]: <Cestroid> vreh[m
+[03:15:51] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 600 tiles rendered (692.19 msec/tile, 620.13 msec per render)[m
+[03:16:14] [Async Chat Thread - #42/INFO]: <clutch2dope> tf is tuff[m
+[03:16:24] [Server thread/INFO]: Cestroid has made the advancement [A Seedy Place]
+[03:17:04] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 700 tiles rendered (697.05 msec/tile, 624.05 msec per render)[m
+[03:17:10] [Async Chat Thread - #43/INFO]: <Cestroid> heh>>??[m
+[03:17:25] [Async Chat Thread - #43/INFO]: <clutch2dope> shits called tuff[m
+[03:17:34] [Async Chat Thread - #43/INFO]: <Cestroid> wherat[m
+[03:17:39] [Async Chat Thread - #43/INFO]: <clutch2dope> in me invin[m
+[03:17:45] [Async Chat Thread - #42/INFO]: <Cestroid> do/\.pe[m
+[03:17:54] [Async Chat Thread - #42/INFO]: <Cestroid> oh at shit[m
+[03:18:00] [Async Chat Thread - #42/INFO]: <clutch2dope> mhhm[m
+[03:18:01] [Async Chat Thread - #42/INFO]: <Cestroid> s\lame ass blocks[m
+[03:18:11] [Async Chat Thread - #42/INFO]: <Cestroid> my slate be deep fr fr[m
+[03:18:16] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 800 tiles rendered (699.91 msec/tile, 627.48 msec per render)[m
+[03:19:30] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 900 tiles rendered (703.15 msec/tile, 631.17 msec per render)[m
+[03:20:42] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 1000 tiles rendered (703.66 msec/tile, 632.32 msec per render)[m
+[03:21:02] [Async Chat Thread - #44/INFO]: <clutch2dope> im outta food[m
+[03:21:11] [Async Chat Thread - #45/INFO]: <Cestroid> broke ass boy[m
+[03:21:19] [Async Chat Thread - #45/INFO]: <clutch2dope> we got string for rod?[m
+[03:21:35] [Async Chat Thread - #45/INFO]: <Cestroid> maybe nij[m
+[03:21:57] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 1100 tiles rendered (707.49 msec/tile, 634.42 msec per render)[m
+[03:22:27] [Async Chat Thread - #45/INFO]: <clutch2dope> aLPACA[m
+[03:23:09] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 1200 tiles rendered (708.09 msec/tile, 634.09 msec per render)[m
+[03:23:42] [Async Chat Thread - #46/INFO]: <Cestroid> think im done with this craft ass shit for tonite[m
+[03:23:50] [Async Chat Thread - #46/INFO]: <clutch2dope> aite aite[m
+[03:24:00] [Async Chat Thread - #46/INFO]: <Cestroid> dope[m
+[03:24:04] [Async Chat Thread - #46/INFO]: <clutch2dope> fr fr[m
+[03:24:05] [Async Chat Thread - #46/INFO]: <Cestroid> farewall[m
+[03:24:08] [Server thread/INFO]: Cestroid lost connection: Disconnected
+[03:24:08] [Server thread/INFO]: Farewell to this realm, Cestroid
+[03:24:21] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 1300 tiles rendered (708.89 msec/tile, 635.18 msec per render)[m
+[03:25:27] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 1400 tiles rendered (704.79 msec/tile, 631.92 msec per render)[m
+[03:26:35] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 1500 tiles rendered (702.41 msec/tile, 628.18 msec per render)[m
+[03:27:47] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 1600 tiles rendered (703.49 msec/tile, 628.97 msec per render)[m
+[03:28:49] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 1700 tiles rendered (698.08 msec/tile, 624.45 msec per render)[m
+[03:29:54] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 1800 tiles rendered (695.49 msec/tile, 621.06 msec per render)[m
+[03:31:01] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 1900 tiles rendered (693.57 msec/tile, 620.55 msec per render)[m
+[03:32:01] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 2000 tiles rendered (688.94 msec/tile, 614.93 msec per render)[m
+[03:33:14] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 2100 tiles rendered (690.49 msec/tile, 616.83 msec per render)[m
+[03:34:13] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 2200 tiles rendered (685.64 msec/tile, 611.84 msec per render)[m
+[03:35:26] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 2300 tiles rendered (687.47 msec/tile, 613.36 msec per render)[m
+[03:36:28] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 2400 tiles rendered (684.44 msec/tile, 610.64 msec per render)[m

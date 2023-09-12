@@ -38,3 +38,74 @@
 2023-09-11 20:37:49.204 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
 2023-09-11 20:39:31.829 [warning] [Decorations] CAPPING events from decorations provider vscode.git 512
 2023-09-11 20:39:33.116 [warning] [Decorations] CAPPING events from decorations provider vscode.git 512
+2023-09-11 20:42:32.026 [warning] [Decorations] CAPPING events from decorations provider vscode.git 512
+2023-09-11 20:42:33.225 [warning] [Decorations] CAPPING events from decorations provider vscode.git 512
+2023-09-11 20:45:32.186 [warning] [Decorations] CAPPING events from decorations provider vscode.git 512
+2023-09-11 20:45:33.293 [warning] [Decorations] CAPPING events from decorations provider vscode.git 512
+2023-09-11 20:48:32.364 [warning] [Decorations] CAPPING events from decorations provider vscode.git 512
+2023-09-11 20:48:33.468 [warning] [Decorations] CAPPING events from decorations provider vscode.git 512
+2023-09-11 21:30:51.894 [error] Error: read ECONNRESET
+	at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-09-11 22:58:12.128 [warning] [Decorations] CAPPING events from decorations provider vscode.git 512
+2023-09-11 22:58:13.267 [warning] [Decorations] CAPPING events from decorations provider vscode.git 512
+2023-09-11 23:08:06.309 [error] ConnectError: [internal] socket hang up
+	at e.connectErrorFromReason (/home/beast/.cursor-server/bin/0.9.4-f81b1a59bbadab6dca9ab3b7ba25fa0569039160/extensions/cursor-retrieval/dist/main.js:1:296795)
+	at e.connectErrorFromNodeReason (/home/beast/.cursor-server/bin/0.9.4-f81b1a59bbadab6dca9ab3b7ba25fa0569039160/extensions/cursor-retrieval/dist/main.js:1:282818)
+	at ClientRequest.reject (/home/beast/.cursor-server/bin/0.9.4-f81b1a59bbadab6dca9ab3b7ba25fa0569039160/extensions/cursor-retrieval/dist/main.js:1:284641)
+	at ClientRequest.emit (node:events:525:35)
+	at TLSSocket.socketOnEnd (node:_http_client:505:9)
+	at TLSSocket.emit (node:events:525:35)
+	at endReadableNT (node:internal/streams/readable:1358:12)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-09-12 00:49:07.434 [warning] [Decorations] CAPPING events from decorations provider vscode.git 512
+2023-09-12 00:49:09.753 [warning] [Decorations] CAPPING events from decorations provider vscode.git 512
+2023-09-12 01:01:50.833 [error] ConnectError: [internal] socket hang up
+	at e.connectErrorFromReason (/home/beast/.cursor-server/bin/0.9.4-f81b1a59bbadab6dca9ab3b7ba25fa0569039160/extensions/cursor-retrieval/dist/main.js:1:296795)
+	at e.connectErrorFromNodeReason (/home/beast/.cursor-server/bin/0.9.4-f81b1a59bbadab6dca9ab3b7ba25fa0569039160/extensions/cursor-retrieval/dist/main.js:1:282818)
+	at ClientRequest.reject (/home/beast/.cursor-server/bin/0.9.4-f81b1a59bbadab6dca9ab3b7ba25fa0569039160/extensions/cursor-retrieval/dist/main.js:1:284641)
+	at ClientRequest.emit (node:events:525:35)
+	at TLSSocket.socketOnEnd (node:_http_client:505:9)
+	at TLSSocket.emit (node:events:525:35)
+	at endReadableNT (node:internal/streams/readable:1358:12)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-09-12 02:39:56.278 [warning] [Decorations] CAPPING events from decorations provider vscode.git 512
+2023-09-12 02:39:57.035 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6842
+2023-09-12 02:40:02.138 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6843
+2023-09-12 02:40:08.363 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6844
+2023-09-12 02:40:14.658 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6855
+2023-09-12 02:40:20.569 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6855
+2023-09-12 02:40:26.573 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6856
+2023-09-12 02:40:53.053 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6880
+2023-09-12 02:41:06.540 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6885
+2023-09-12 02:41:17.217 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6889
+2023-09-12 02:41:23.283 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6891
+2023-09-12 02:41:29.437 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6893
+2023-09-12 02:41:35.600 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6899
+2023-09-12 02:41:42.026 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6909
+2023-09-12 02:41:48.322 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6912
+2023-09-12 02:41:54.515 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6917
+2023-09-12 02:42:01.182 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6932
+2023-09-12 02:43:11.087 [error] ConnectError: [internal] socket hang up
+	at e.connectErrorFromReason (/home/beast/.cursor-server/bin/0.9.4-f81b1a59bbadab6dca9ab3b7ba25fa0569039160/extensions/cursor-retrieval/dist/main.js:1:296795)
+	at e.connectErrorFromNodeReason (/home/beast/.cursor-server/bin/0.9.4-f81b1a59bbadab6dca9ab3b7ba25fa0569039160/extensions/cursor-retrieval/dist/main.js:1:282818)
+	at ClientRequest.reject (/home/beast/.cursor-server/bin/0.9.4-f81b1a59bbadab6dca9ab3b7ba25fa0569039160/extensions/cursor-retrieval/dist/main.js:1:284641)
+	at ClientRequest.emit (node:events:525:35)
+	at TLSSocket.socketOnEnd (node:_http_client:505:9)
+	at TLSSocket.emit (node:events:525:35)
+	at endReadableNT (node:internal/streams/readable:1358:12)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-09-12 02:46:28.700 [warning] [Decorations] CAPPING events from decorations provider vscode.git 512
+2023-09-12 02:46:29.318 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7627
+2023-09-12 02:46:31.676 [warning] [Decorations] CAPPING events from decorations provider vscode.git 512
+2023-09-12 02:46:33.964 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7640
+2023-09-12 02:48:23.959 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8277
+2023-09-12 02:52:39.966 [warning] [Decorations] CAPPING events from decorations provider vscode.git 512
+2023-09-12 02:52:40.767 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9539
+2023-09-12 02:52:43.013 [warning] [Decorations] CAPPING events from decorations provider vscode.git 512
+2023-09-12 03:36:14.217 [warning] [Decorations] CAPPING events from decorations provider vscode.git 512
+2023-09-12 03:36:14.889 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10868
+2023-09-12 03:36:19.634 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10002
+2023-09-12 03:36:37.238 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10003
+2023-09-12 03:36:40.156 [error] Actual command not found, wanted to execute git.commit/281 __vsclmfbhxhm undefined
+2023-09-12 03:36:40.799 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10001
+2023-09-12 03:36:44.819 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000

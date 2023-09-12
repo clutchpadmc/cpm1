@@ -22,3 +22,9 @@
 2023-09-11 20:09:21.165 [info] [127.0.0.1][b02ed01a][ExtensionHostConnection] New connection established.
 2023-09-11 20:09:21.170 [info] [127.0.0.1][b02ed01a][ExtensionHostConnection] <13099> Launched Extension Host Process.
 2023-09-11 20:14:21.206 [info] [127.0.0.1][1ae0e60f][ExtensionHostConnection] <2903> Extension Host Process exited with code: 0, signal: null.
+2023-09-11 21:18:47.639 [info] [127.0.0.1][b02ed01a][ExtensionHostConnection] The client has reconnected.
+2023-09-11 22:58:00.799 [info] [127.0.0.1][ac5e73d9][ManagementConnection] The client has reconnected.
+2023-09-11 22:58:11.385 [info] [127.0.0.1][b02ed01a][ExtensionHostConnection] The client has reconnected.
+2023-09-11 22:58:40.030 [info] [127.0.0.1][b02ed01a][ExtensionHostConnection] The client has reconnected.
+2023-09-12 00:49:06.485 [info] [127.0.0.1][ac5e73d9][ManagementConnection] The client has reconnected.
+2023-09-12 00:49:06.645 [info] [127.0.0.1][b02ed01a][ExtensionHostConnection] The client has reconnected.

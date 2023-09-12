@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 73.245.111.30
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1694489048334
+  login: 1694486563706
+money: '0'
+last-account-name: Cestroid
+logoutlocation:
+  world: dd6869be-9897-4ccd-96f1-635a0117a493
+  world-name: world
+  x: -449.9535066963865
+  y: 59.0
+  z: 175.83869167492014
+  yaw: 91.9443359375
+  pitch: 12.000012397766113

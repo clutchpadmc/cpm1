@@ -35,3 +35,9 @@ New EH opened, aborting shutdown
 [IPC Library: Pty Host]  INFO Persistent process "4": Replaying 9121 chars and 1 size events
 [IPC Library: Pty Host]  INFO Persistent process "6": Replaying 4505 chars and 1 size events
 [20:14:21] [127.0.0.1][1ae0e60f][ExtensionHostConnection] <2903> Extension Host Process exited with code: 0, signal: null.
+[21:18:47] [127.0.0.1][b02ed01a][ExtensionHostConnection] The client has reconnected.
+[22:58:00] [127.0.0.1][ac5e73d9][ManagementConnection] The client has reconnected.
+[22:58:11] [127.0.0.1][b02ed01a][ExtensionHostConnection] The client has reconnected.
+[22:58:40] [127.0.0.1][b02ed01a][ExtensionHostConnection] The client has reconnected.
+[00:49:06] [127.0.0.1][ac5e73d9][ManagementConnection] The client has reconnected.
+[00:49:06] [127.0.0.1][b02ed01a][ExtensionHostConnection] The client has reconnected.

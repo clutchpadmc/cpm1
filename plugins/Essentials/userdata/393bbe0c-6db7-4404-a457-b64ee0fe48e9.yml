@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 75.102.66.200
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1694488502785
+  login: 1694486561140
+money: '0'
+last-account-name: forbritzeo
+logoutlocation:
+  world: dd6869be-9897-4ccd-96f1-635a0117a493
+  world-name: world
+  x: -449.9871157177203
+  y: 59.0
+  z: 176.43146285136103
+  yaw: 171.30007934570312
+  pitch: 5.550004005432129
