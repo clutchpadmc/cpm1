@@ -109,3 +109,4 @@
 2023-09-12 03:36:40.156 [error] Actual command not found, wanted to execute git.commit/281 __vsclmfbhxhm undefined
 2023-09-12 03:36:40.799 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10001
 2023-09-12 03:36:44.819 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2023-09-12 03:37:36.602 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10040
