@@ -162,3 +162,31 @@ screen -r mc
 screen -r 18302
 screen -r
 screen -r 13411
+ls
+cd plugins
+curl https://dev.bukkit.org/projects/worldedit/files/4586220/download
+ls
+curl
+curl https://dev.bukkit.org/projects/worldedit/files/4586220/download -o we.jar
+curl https://dev.bukkit.org/projects/worldedit/files/4586220/download
+curl https://dev.bukkit.org/projects/worldedit/files/4586220
+ls
+cd ../
+ls
+git
+git init
+cron
+sudo cron
+sudo vim /etc/crontab
+sudo chmod auto.sh
+sudo chmod 765 auto.sh
+git
+git commit
+git commit -a
+git commit -am T1
+git push
+screen -r
+pkill screen
+screen -r
+screen
+screen -S mc

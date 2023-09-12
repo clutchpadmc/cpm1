@@ -1,0 +1,10 @@
+2023-09-12 17:51:21.144 [info] 
+
+
+
+
+2023-09-12 17:51:21.163 [info] Extension host agent started.
+2023-09-12 17:51:21.733 [error] [127.0.0.1][ac5e73d9][ManagementConnection] Unknown reconnection token (never seen).
+2023-09-12 17:51:30.168 [info] [127.0.0.1][56ff1297][ManagementConnection] New connection established.
+2023-09-12 17:51:30.337 [info] [127.0.0.1][187508a0][ExtensionHostConnection] New connection established.
+2023-09-12 17:51:30.647 [info] [127.0.0.1][187508a0][ExtensionHostConnection] <21729> Launched Extension Host Process.

@@ -28,3 +28,7 @@
 2023-09-11 22:58:40.030 [info] [127.0.0.1][b02ed01a][ExtensionHostConnection] The client has reconnected.
 2023-09-12 00:49:06.485 [info] [127.0.0.1][ac5e73d9][ManagementConnection] The client has reconnected.
 2023-09-12 00:49:06.645 [info] [127.0.0.1][b02ed01a][ExtensionHostConnection] The client has reconnected.
+2023-09-12 04:18:11.176 [info] [127.0.0.1][b02ed01a][ExtensionHostConnection] The client has reconnected.
+2023-09-12 07:30:27.300 [info] [127.0.0.1][b02ed01a][ExtensionHostConnection] <13099> Extension Host Process exited with code: 0, signal: null.
+2023-09-12 07:30:27.300 [info] Last EH closed, waiting before shutting down
+2023-09-12 07:35:27.301 [info] Last EH closed, shutting down
