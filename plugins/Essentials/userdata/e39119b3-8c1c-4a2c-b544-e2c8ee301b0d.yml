@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1694486632504
-  login: 1694483945071
+  logout: 1694550469981
+  login: 1694546894374
 money: '0'
 last-account-name: cjdaman21
 logoutlocation:
   world: dd6869be-9897-4ccd-96f1-635a0117a493
   world-name: world
-  x: -3924.8951273769353
-  y: 67.0
-  z: -655.1616744865953
-  yaw: 141.01046752929688
-  pitch: 5.919222831726074
+  x: -10865.5
+  y: 71.0
+  z: -2473.5
+  yaw: -180.0
+  pitch: 0.0

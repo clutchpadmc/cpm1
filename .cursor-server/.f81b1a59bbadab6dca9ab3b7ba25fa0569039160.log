@@ -12,3 +12,13 @@ FaroSystemAppender constructor
 [17:51:30] [127.0.0.1][56ff1297][ManagementConnection] New connection established.
 [17:51:30] [127.0.0.1][187508a0][ExtensionHostConnection] New connection established.
 [17:51:30] [127.0.0.1][187508a0][ExtensionHostConnection] <21729> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[17:56:21] New EH opened, aborting shutdown
+[19:52:00] [127.0.0.1][187508a0][ExtensionHostConnection] The client has reconnected.
+[23:52:01] [127.0.0.1][187508a0][ExtensionHostConnection] The client has reconnected.
+[23:58:31] [127.0.0.1][56ff1297][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[23:58:32] [127.0.0.1][187508a0][ExtensionHostConnection] <21729> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[23:58:32] Last EH closed, waiting before shutting down
+Last EH closed, shutting down
+[00:03:32] Last EH closed, shutting down

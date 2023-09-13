@@ -26,3 +26,7 @@
 #export PILOTRATE=115200
 
 test -s ~/.alias && . ~/.alias || true
+
+# bun
+export BUN_INSTALL="$HOME/.bun"
+export PATH=$BUN_INSTALL/bin:$PATH

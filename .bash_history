@@ -190,3 +190,18 @@ pkill screen
 screen -r
 screen
 screen -S mc
+screen -r mc
+screen -dr mc
+screen -r mc
+ls
+cd ../
+ls
+cd ../
+ls
+cd bin
+ls
+curl -fsSL https://bun.sh/install | bash
+v
+source /home/beast/.bashrc 
+bun --help
+screen -r mc
