@@ -1,0 +1,24 @@
+2023-09-14 02:18:38.587 [info] 
+
+
+
+
+2023-09-14 02:18:38.605 [info] Extension host agent started.
+2023-09-14 02:18:39.167 [error] [127.0.0.1][3d2ebf18][ManagementConnection] Unknown reconnection token (never seen).
+2023-09-14 02:18:39.530 [error] [127.0.0.1][7750b3ee][ExtensionHostConnection] Unknown reconnection token (never seen).
+2023-09-14 02:18:49.245 [info] [127.0.0.1][aafd4a01][ManagementConnection] New connection established.
+2023-09-14 02:18:49.367 [info] [127.0.0.1][4e41cbe4][ExtensionHostConnection] New connection established.
+2023-09-14 02:18:49.523 [info] [127.0.0.1][4e41cbe4][ExtensionHostConnection] <19467> Launched Extension Host Process.
+2023-09-14 02:23:38.605 [info] New EH opened, aborting shutdown
+2023-09-14 02:24:04.394 [info] [127.0.0.1][aafd4a01][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-09-14 02:24:04.413 [info] [127.0.0.1][4e41cbe4][ExtensionHostConnection] <19467> Extension Host Process exited with code: 0, signal: null.
+2023-09-14 02:24:04.414 [info] Last EH closed, waiting before shutting down
+2023-09-14 02:24:19.198 [info] [127.0.0.1][905aec87][ManagementConnection] New connection established.
+2023-09-14 02:24:19.336 [info] [127.0.0.1][a9114eee][ExtensionHostConnection] New connection established.
+2023-09-14 02:24:19.344 [info] [127.0.0.1][a9114eee][ExtensionHostConnection] <20930> Launched Extension Host Process.
+2023-09-14 02:24:41.094 [info] [127.0.0.1][a9114eee][ExtensionHostConnection] The client has reconnected.
+2023-09-14 02:28:50.166 [info] [127.0.0.1][3acc211d][ManagementConnection] New connection established.
+2023-09-14 02:28:50.360 [info] [127.0.0.1][d01885e5][ExtensionHostConnection] New connection established.
+2023-09-14 02:28:50.392 [info] [127.0.0.1][d01885e5][ExtensionHostConnection] <22290> Launched Extension Host Process.
+2023-09-14 02:29:04.414 [info] New EH opened, aborting shutdown
+2023-09-14 02:33:50.291 [info] [127.0.0.1][a9114eee][ExtensionHostConnection] <20930> Extension Host Process exited with code: 0, signal: null.

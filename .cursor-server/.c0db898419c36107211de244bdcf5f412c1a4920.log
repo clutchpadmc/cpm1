@@ -1,22 +1,31 @@
-Server bound to 127.0.0.1:37971 (IPv4)
-Extension host agent listening on 37971
+Server bound to 127.0.0.1:34739 (IPv4)
+Extension host agent listening on 34739
 
-[00:24:51] 
+[02:18:38] 
 
 
 
 
 FaroSystemAppender constructor
-[00:24:51] Extension host agent started.
-[00:24:51] [127.0.0.1][6579a355][ManagementConnection] New connection established.
-[00:24:51] [127.0.0.1][79f08e67][ExtensionHostConnection] New connection established.
-[00:24:52] [127.0.0.1][79f08e67][ExtensionHostConnection] <11389> Launched Extension Host Process.
-[00:25:49] [127.0.0.1][6579a355][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
-[00:25:49] [127.0.0.1][79f08e67][ExtensionHostConnection] <11389> Extension Host Process exited with code: 0, signal: null.
-Cancelling previous shutdown timeout
-[00:25:49] Cancelling previous shutdown timeout
+[02:18:38] Extension host agent started.
+[02:18:39] [127.0.0.1][3d2ebf18][ManagementConnection] Unknown reconnection token (never seen).
+[02:18:39] [127.0.0.1][7750b3ee][ExtensionHostConnection] Unknown reconnection token (never seen).
+[02:18:49] [127.0.0.1][aafd4a01][ManagementConnection] New connection established.
+[02:18:49] [127.0.0.1][4e41cbe4][ExtensionHostConnection] New connection established.
+[02:18:49] [127.0.0.1][4e41cbe4][ExtensionHostConnection] <19467> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[02:23:38] New EH opened, aborting shutdown
+[02:24:04] [127.0.0.1][aafd4a01][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[02:24:04] [127.0.0.1][4e41cbe4][ExtensionHostConnection] <19467> Extension Host Process exited with code: 0, signal: null.
 Last EH closed, waiting before shutting down
-[00:25:49] Last EH closed, waiting before shutting down
-[00:25:56] [127.0.0.1][4f3c7e40][ManagementConnection] New connection established.
-[00:25:56] [127.0.0.1][5ce5ace2][ExtensionHostConnection] New connection established.
-[00:25:56] [127.0.0.1][5ce5ace2][ExtensionHostConnection] <11830> Launched Extension Host Process.
+[02:24:04] Last EH closed, waiting before shutting down
+[02:24:19] [127.0.0.1][905aec87][ManagementConnection] New connection established.
+[02:24:19] [127.0.0.1][a9114eee][ExtensionHostConnection] New connection established.
+[02:24:19] [127.0.0.1][a9114eee][ExtensionHostConnection] <20930> Launched Extension Host Process.
+[02:24:41] [127.0.0.1][a9114eee][ExtensionHostConnection] The client has reconnected.
+[02:28:50] [127.0.0.1][3acc211d][ManagementConnection] New connection established.
+[02:28:50] [127.0.0.1][d01885e5][ExtensionHostConnection] New connection established.
+[02:28:50] [127.0.0.1][d01885e5][ExtensionHostConnection] <22290> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[02:29:04] New EH opened, aborting shutdown
+[02:33:50] [127.0.0.1][a9114eee][ExtensionHostConnection] <20930> Extension Host Process exited with code: 0, signal: null.

@@ -205,3 +205,12 @@ v
 source /home/beast/.bashrc 
 bun --help
 screen -r mc
+screen -dr mc
+ls
+screen -rc
+screen -rc mc
+screen -r mc
+screen -rd mc
+screen -rc
+screen -rc mc
+screen -rd mc

@@ -1,1 +1,78 @@
-[00:25:04] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[00:34:58] [Server thread/INFO]: cjdaman21 lost connection: Disconnected
+[00:34:58] [Server thread/INFO]: Farewell to this realm, cjdaman21
+[01:07:07] [User Authenticator #23/INFO]: UUID of player Cestroid is 639b2c9b-c65b-46ad-92f6-c6d9320b2bd8
+[01:07:07] [Server thread/INFO]: Cestroid[/73.245.111.30:54560] logged in with entity id 100338 at ([world]-452.60652625774514, 59.0, 179.00438289805246)
+[01:07:08] [Server thread/INFO]: Welcome to the beastly realm, Cestroid, there are 1 players currently crafting the day away![m
+[01:18:01] [User Authenticator #24/INFO]: UUID of player cjdaman21 is e39119b3-8c1c-4a2c-b544-e2c8ee301b0d
+[01:18:01] [Server thread/INFO]: cjdaman21[/73.183.112.179:52611] logged in with entity id 102214 at ([world]-10879.95591408566, 71.0, -2480.6467395870955)
+[01:18:02] [Server thread/INFO]: Welcome to the beastly realm, cjdaman21, there are 2 players currently crafting the day away![m
+[01:18:16] [Async Chat Thread - #84/INFO]: <cjdaman21> sleep[m
+[01:18:26] [Server thread/INFO]: Cestroid lost connection: Disconnected
+[01:18:26] [Server thread/INFO]: Farewell to this realm, Cestroid
+[01:18:36] [User Authenticator #25/INFO]: UUID of player Cestroid is 639b2c9b-c65b-46ad-92f6-c6d9320b2bd8
+[01:18:36] [Server thread/INFO]: Cestroid[/73.245.111.30:54626] logged in with entity id 102536 at ([world]-476.8625599843093, 37.0, -11.48576531175261)
+[01:18:36] [Server thread/INFO]: Welcome to the beastly realm, Cestroid, there are 2 players currently crafting the day away![m
+[01:18:41] [Async Chat Thread - #84/INFO]: <cjdaman21> piss?[m
+[01:19:04] [Async Chat Thread - #85/INFO]: <Cestroid> gimem a sec[m
+[01:19:08] [Async Chat Thread - #84/INFO]: <cjdaman21> aight[m
+[01:20:57] [Async Chat Thread - #86/INFO]: <cjdaman21> ill join when you get on[m
+[01:21:14] [Async Chat Thread - #86/INFO]: <Cestroid> okey[m
+[01:22:20] [Async Chat Thread - #88/INFO]: <Cestroid> wanna do daily forts?[m
+[01:22:24] [Async Chat Thread - #88/INFO]: <cjdaman21> ye[m
+[01:22:28] [Async Chat Thread - #89/INFO]: <Cestroid> aight[m
+[01:22:36] [Server thread/INFO]: cjdaman21 lost connection: Disconnected
+[01:22:36] [Server thread/INFO]: Farewell to this realm, cjdaman21
+[01:22:37] [Async Chat Thread - #88/INFO]: <Cestroid> ill be in piss in 30 sec\[m
+[01:22:41] [Server thread/INFO]: Cestroid lost connection: Disconnected
+[01:22:41] [Server thread/INFO]: Farewell to this realm, Cestroid
+[01:35:00] [Server thread/INFO]: CONSOLE issued server command: /online 
+[01:35:00] [Server thread/INFO]: [0;33;22mThere are [0;31;1m0[0;33;22m out of maximum [0;31;1m20[0;33;22m players online.[m
+[02:17:43] [Craft Scheduler Thread - 66/INFO]: [Vault] Checking for Updates ... 
+[02:17:43] [Craft Scheduler Thread - 66/INFO]: [Vault] No new version available
+[02:19:12] [Server thread/INFO]: CONSOLE issued server command: /online 
+[02:19:12] [Server thread/INFO]: [0;33;22mThere are [0;31;1m0[0;33;22m out of maximum [0;31;1m20[0;33;22m players online.[m
+[02:27:40] [User Authenticator #26/INFO]: UUID of player Cestroid is 639b2c9b-c65b-46ad-92f6-c6d9320b2bd8
+[02:27:40] [Server thread/INFO]: Cestroid[/73.245.111.30:54851] logged in with entity id 103995 at ([world]-390.0888848830975, 67.0, -58.25602770262789)
+[02:27:41] [Server thread/INFO]: Welcome to the beastly realm, Cestroid, there are 1 players currently crafting the day away![m
+[02:28:54] [Server thread/INFO]: com.mojang.authlib.GameProfile@13d62007[id=<null>,name=clutch2dope,properties={},legacy=false] (/47.184.120.151:57350) lost connection: Disconnected
+[02:29:27] [Server thread/INFO]: [Not Secure] [Server] on sec
+[02:29:32] [Server thread/INFO]: CONSOLE issued server command: /broadcast frfr'
+[02:29:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@501a65c0[id=<null>,name=clutch2dope,properties={},legacy=false] (/47.184.120.151:57402) lost connection: Disconnected
+[02:30:46] [User Authenticator #27/INFO]: UUID of player clutch2dope is b962a643-ce32-440d-8004-e4999901efb3
+[02:30:47] [Server thread/INFO]: clutch2dope[/47.184.120.151:57460] logged in with entity id 104767 at ([world]-533.3000000119209, -59.0, 350.69999998807907)
+[02:30:47] [Server thread/INFO]: Welcome to the beastly realm, clutch2dope, there are 2 players currently crafting the day away![m
+[02:30:52] [Async Chat Thread - #91/INFO]: <clutch2dope> 2 dope[m
+[02:30:53] [Async Chat Thread - #91/INFO]: <Cestroid> CLURCH\[m
+[02:31:06] [Async Chat Thread - #92/INFO]: <clutch2dope> where my cheddas at[m
+[02:31:08] [Server thread/INFO]: CONSOLE issued server command: /broadcast frfr'
+[02:31:24] [Async Chat Thread - #91/INFO]: <Cestroid> I JUST BE IN THE DESERT[m
+[02:31:32] [Async Chat Thread - #92/INFO]: <clutch2dope> 2dope[m
+[02:32:07] [Async Chat Thread - #91/INFO]: <clutch2dope> hittin nigggas wit tha rocket launcha[m
+[02:32:11] [Server thread/INFO]: CONSOLE issued server command: /broadcast frfr
+[02:32:30] [Async Chat Thread - #92/INFO]: <clutch2dope> dang ap expanded this place like cray[m
+[02:32:34] [Async Chat Thread - #92/INFO]: <clutch2dope> giant slime tho[m
+[02:32:40] [Async Chat Thread - #92/INFO]: <Cestroid> dang[m
+[02:32:46] [Async Chat Thread - #91/INFO]: <Cestroid> you down under?[m
+[02:32:54] [Async Chat Thread - #92/INFO]: <clutch2dope> shits 2dope[m
+[02:32:57] [Async Chat Thread - #92/INFO]: <clutch2dope> yeh[m
+[02:33:16] [Async Chat Thread - #91/INFO]: <Cestroid> aint been down ere in a minute[m
+[02:33:18] [Async Chat Thread - #92/INFO]: <Cestroid> fr fr[m
+[02:33:19] [Async Chat Thread - #92/INFO]: <clutch2dope> tf bl;ast furnace do[m
+[02:33:21] [Server thread/INFO]: CONSOLE issued server command: /broadcast frfr
+[02:33:54] [Async Chat Thread - #91/INFO]: <Cestroid> tf[m
+[02:34:00] [Async Chat Thread - #91/INFO]: <Cestroid> where you talm bout[m
+[02:34:12] [Async Chat Thread - #92/INFO]: <clutch2dope> lowa level[m
+[02:34:19] [Async Chat Thread - #91/INFO]: <Cestroid> how get[m
+[02:34:28] [Async Chat Thread - #92/INFO]: <clutch2dope> ion kno tbr[m
+[02:34:32] [Async Chat Thread - #91/INFO]: <clutch2dope> ap did some weird move[m
+[02:34:47] [Async Chat Thread - #92/INFO]: <Cestroid> ahhhh ap make cents[m
+[02:34:59] [Async Chat Thread - #92/INFO]: <Cestroid> ohhh][m
+[02:35:02] [Async Chat Thread - #92/INFO]: <Cestroid> u turn[m
+[02:35:26] [Async Chat Thread - #91/INFO]: <Cestroid> bro found a ameystst[m
+[02:35:27] [Async Chat Thread - #91/INFO]: <clutch2dope> rich af[m
+[02:35:48] [Async Chat Thread - #91/INFO]: <clutch2dope> enchant?[m
+[02:35:48] [Async Chat Thread - #91/INFO]: <Cestroid> obsideiom[m
+[02:35:53] [Async Chat Thread - #91/INFO]: <Cestroid> let get this shit[m
+[02:35:56] [Async Chat Thread - #91/INFO]: <clutch2dope> u got dia pick?[m
+[02:36:17] [Async Chat Thread - #92/INFO]: <Cestroid> hey minecraft craft me a diamond pix[m
+[02:36:25] [Async Chat Thread - #92/INFO]: <Cestroid> thx[m

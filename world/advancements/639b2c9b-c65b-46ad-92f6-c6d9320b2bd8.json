@@ -1712,9 +1712,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2023-09-12 02:43:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2023-09-12 02:54:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2023-09-12 02:54:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2023-09-12 02:54:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2023-09-12 03:04:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2023-09-12 03:07:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2023-09-12 03:07:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2023-09-12 03:07:23 +0000"
     },
     "done": true
   },
@@ -1727,12 +1769,6 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2023-09-12 03:12:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2023-09-12 03:07:23 +0000"
     },
     "done": true
   },
@@ -1754,12 +1790,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lapis_lazuli": {
-    "criteria": {
-      "has_lapis_block": "2023-09-12 02:43:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2023-09-12 03:12:45 +0000"
@@ -1769,12 +1799,6 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2023-09-12 03:12:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_glow_ink_sac": "2023-09-12 03:04:43 +0000"
     },
     "done": true
   },
@@ -1796,21 +1820,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/slime_block": {
+  "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
-      "has_slime_ball": "2023-09-12 03:07:23 +0000"
+      "has_gold_ingot": "2023-09-12 03:12:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2023-09-12 03:12:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2023-09-12 03:12:45 +0000"
     },
     "done": true
   },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "beetroots": "2023-09-12 03:16:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_hoe": {
-    "criteria": {
-      "has_gold_ingot": "2023-09-12 03:12:45 +0000"
     },
     "done": true
   },
@@ -1826,33 +1856,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/activator_rail": {
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
-      "has_rail": "2023-09-12 02:54:27 +0000"
+      "has_beetroot": "2023-09-14 01:08:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+  "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
-      "has_gold_ingot": "2023-09-12 03:12:45 +0000"
+      "has_beetroot": "2023-09-14 01:08:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/lead": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "has_slime_ball": "2023-09-12 03:07:23 +0000"
+      "has_water_bucket": "2023-09-14 01:12:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/powered_rail": {
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
-      "has_rail": "2023-09-12 02:54:27 +0000"
+      "has_raw_copper": "2023-09-14 01:12:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_leggings": {
+  "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
-      "has_gold_ingot": "2023-09-12 03:12:45 +0000"
+      "has_raw_copper": "2023-09-14 01:12:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2023-09-14 01:12:45 +0000"
     },
     "done": true
   },
