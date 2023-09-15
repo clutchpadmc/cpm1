@@ -1,0 +1,383 @@
+2023-09-14 16:52:25.804 [info] Extension host with pid 3478 started
+2023-09-14 16:52:25.858 [info] Lock '/home/beast/.cursor-server/data/User/workspaceStorage/212b9798974b60f4762a8d8c99a009fc/vscode.lock': Lock acquired.
+2023-09-14 16:52:26.006 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-09-14 16:52:26.095 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-09-14 16:52:26.096 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-09-14 16:52:26.801 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-09-14 16:52:27.117 [info] Eager extensions activated
+2023-09-14 16:52:27.117 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2023-09-14 16:52:27.118 [info] ExtensionService#_doActivateExtension anysphere.cursor-tokenize, startup: false, activationEvent: 'onStartupFinished'
+2023-09-14 16:52:27.118 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-09-14 16:52:27.118 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-09-14 16:52:30.205 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8826
+2023-09-14 16:52:31.866 [warning] [Decorations] CAPPING events from decorations provider vscode.git 512
+2023-09-14 16:52:34.211 [error] Error: read ECONNRESET
+	at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-09-14 16:52:41.168 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:52:46.682 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:52:52.193 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:52:57.671 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:53:03.160 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:53:08.634 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:53:14.119 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:53:19.596 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:53:25.076 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:53:30.551 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:53:36.026 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:53:41.510 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:53:46.988 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:53:52.463 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:53:57.942 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:54:03.415 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:54:08.892 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:54:14.370 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:54:19.839 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:54:25.321 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:54:30.809 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:54:36.291 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:54:41.766 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:54:47.247 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:54:52.721 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:54:58.198 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:55:03.674 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:55:09.147 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:55:14.631 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:55:20.153 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:55:25.632 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:55:29.557 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:55:31.140 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:55:32.176 [warning] [Decorations] CAPPING events from decorations provider vscode.git 512
+2023-09-14 16:55:33.696 [warning] [Decorations] CAPPING events from decorations provider vscode.git 512
+2023-09-14 16:55:36.651 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:55:42.142 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:55:47.613 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:55:53.100 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:55:58.576 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:56:04.043 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:56:09.507 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:56:14.975 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:56:20.449 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:56:25.921 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:56:31.399 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:56:36.871 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:56:42.343 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:56:47.807 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:56:53.284 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:56:58.757 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:57:04.232 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:57:09.714 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:57:15.227 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:57:20.706 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:57:26.212 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:57:31.681 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 16:57:37.156 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 17:00:52.083 [warning] [Decorations] CAPPING events from decorations provider vscode.git 512
+2023-09-14 17:00:52.417 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 17:00:53.353 [warning] [Decorations] CAPPING events from decorations provider vscode.git 512
+2023-09-14 17:23:53.650 [warning] [Decorations] CAPPING events from decorations provider vscode.git 512
+2023-09-14 17:23:53.964 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 17:23:54.867 [warning] [Decorations] CAPPING events from decorations provider vscode.git 512
+2023-09-14 17:23:58.821 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 17:24:04.294 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 17:24:09.530 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2023-09-14 17:24:09.819 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 17:24:15.289 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 17:26:32.270 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 17:26:37.742 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:07:36.685 [warning] [Decorations] CAPPING events from decorations provider vscode.git 512
+2023-09-14 22:07:37.183 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:07:38.085 [warning] [Decorations] CAPPING events from decorations provider vscode.git 512
+2023-09-14 22:07:50.391 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:07:55.857 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:08:01.326 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:08:06.797 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:08:12.270 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:08:17.741 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:08:23.219 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:08:28.689 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:08:34.164 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:08:39.637 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:08:45.113 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:08:50.597 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:08:56.077 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:09:01.561 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:09:07.034 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:09:12.502 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:09:17.969 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:09:23.438 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:09:28.910 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:09:34.385 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:09:39.909 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:09:45.381 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:09:50.852 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:09:56.316 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:10:01.785 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:10:07.256 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:10:12.724 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:10:18.203 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:10:23.673 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:10:29.142 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:10:34.609 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:10:36.924 [warning] [Decorations] CAPPING events from decorations provider vscode.git 512
+2023-09-14 22:10:37.787 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:10:38.611 [warning] [Decorations] CAPPING events from decorations provider vscode.git 512
+2023-09-14 22:10:40.087 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:10:45.557 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:10:51.034 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:10:56.503 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:11:01.972 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:11:07.436 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:11:12.905 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:25:28.553 [warning] [Decorations] CAPPING events from decorations provider vscode.git 512
+2023-09-14 22:25:28.968 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8829
+2023-09-14 22:25:29.849 [warning] [Decorations] CAPPING events from decorations provider vscode.git 512
+2023-09-15 01:14:47.411 [info] Extension host terminating: renderer disconnected for too long (2)
+2023-09-15 01:14:47.411 [info] Lock '/home/beast/.cursor-server/data/User/workspaceStorage/212b9798974b60f4762a8d8c99a009fc/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-09-15 01:14:47.428 [error] Canceled: Canceled
+	at new c (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:105827)
+	at a.O (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:111:11756)
+	at Proxy.z.<computed>.H.charCodeAt.z.<computed> (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:111:9031)
+	at e.ExtHostCommands.g (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:130124)
+	at e.ExtHostCommands.executeCommand (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:129500)
+	at I.registerCommand.description (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:128793)
+	at e.ExtHostCommands.h (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:130710)
+	at e.ExtHostCommands.g (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:129600)
+	at e.ExtHostCommands.executeCommand (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:129500)
+	at Object.executeCommand (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:117:25248)
+	at D (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/extensions/git/dist/main.js:2:1261542)
+	at b.invoke (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at deliver (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at n.fire (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at Object.m [as dispose] (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/extensions/git/dist/main.js:2:1276197)
+	at /home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/extensions/git/dist/main.js:2:1280699
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/extensions/git/dist/main.js:2:1280685)
+	at r.<anonymous> (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:97:12640)
+	at r.dispose (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:97:12775)
+	at r.<anonymous> (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/extensions/git/dist/main.js:2:1263672)
+	at r.dispose (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:97:12775)
+	at C (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:10:12085)
+	at n.Z (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:113:11285)
+	at /home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:113:9187
+	at Array.map (<anonymous>)
+	at n.S (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:113:9175)
+	at n.terminate (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:113:9445)
+	at h.terminate (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:117:1544)
+	at p (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:127:34497)
+	at H.a (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:127:31052)
+	at H.h (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:67:18326)
+	at listOnTimeout (node:internal/timers:559:17)
+	at processTimers (node:internal/timers:502:7) setContext undefined
+2023-09-15 01:14:47.428 [error] Canceled: Canceled
+	at new c (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:105827)
+	at a.O (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:111:11756)
+	at Proxy.z.<computed>.H.charCodeAt.z.<computed> (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:111:9031)
+	at e.ExtHostCommands.g (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:130124)
+	at e.ExtHostCommands.executeCommand (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:129500)
+	at I.registerCommand.description (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:128793)
+	at e.ExtHostCommands.h (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:130710)
+	at e.ExtHostCommands.g (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:129600)
+	at e.ExtHostCommands.executeCommand (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:129500)
+	at Object.executeCommand (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:117:25248)
+	at D (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/extensions/git/dist/main.js:2:1261542)
+	at b.invoke (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at deliver (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at n.fire (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at Object.m [as dispose] (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/extensions/git/dist/main.js:2:1276197)
+	at /home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/extensions/git/dist/main.js:2:1280699
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/extensions/git/dist/main.js:2:1280685)
+	at r.<anonymous> (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:97:12640)
+	at r.dispose (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:97:12775)
+	at r.<anonymous> (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/extensions/git/dist/main.js:2:1263672)
+	at r.dispose (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:97:12775)
+	at C (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:10:12085)
+	at n.Z (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:113:11285)
+	at /home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:113:9187
+	at Array.map (<anonymous>)
+	at n.S (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:113:9175)
+	at n.terminate (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:113:9445)
+	at h.terminate (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:117:1544)
+	at p (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:127:34497)
+	at H.a (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:127:31052)
+	at H.h (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:67:18326)
+	at listOnTimeout (node:internal/timers:559:17)
+	at processTimers (node:internal/timers:502:7) setContext undefined
+2023-09-15 01:14:47.430 [error] Canceled: Canceled
+	at new c (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:105827)
+	at a.O (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:111:11756)
+	at Proxy.z.<computed>.H.charCodeAt.z.<computed> (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:111:9031)
+	at e.ExtHostCommands.g (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:130124)
+	at e.ExtHostCommands.executeCommand (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:129500)
+	at I.registerCommand.description (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:128793)
+	at e.ExtHostCommands.h (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:130710)
+	at e.ExtHostCommands.g (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:129600)
+	at e.ExtHostCommands.executeCommand (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:129500)
+	at Object.executeCommand (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:117:25248)
+	at D (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/extensions/git/dist/main.js:2:1261542)
+	at b.invoke (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at deliver (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at n.fire (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at Object.m [as dispose] (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/extensions/git/dist/main.js:2:1276197)
+	at /home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/extensions/git/dist/main.js:2:1280699
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/extensions/git/dist/main.js:2:1280685)
+	at r.<anonymous> (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:97:12640)
+	at r.dispose (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:97:12775)
+	at r.<anonymous> (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/extensions/git/dist/main.js:2:1263672)
+	at r.dispose (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:97:12775)
+	at C (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:10:12085)
+	at n.Z (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:113:11285)
+	at /home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:113:9187
+	at Array.map (<anonymous>)
+	at n.S (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:113:9175)
+	at n.terminate (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:113:9445)
+	at h.terminate (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:117:1544)
+	at p (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:127:34497)
+	at H.a (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:127:31052)
+	at H.h (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:67:18326)
+	at listOnTimeout (node:internal/timers:559:17)
+	at processTimers (node:internal/timers:502:7) setContext undefined
+2023-09-15 01:14:47.430 [error] Canceled: Canceled
+	at new c (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:105827)
+	at a.O (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:111:11756)
+	at Proxy.z.<computed>.H.charCodeAt.z.<computed> (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:111:9031)
+	at e.ExtHostCommands.g (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:130124)
+	at e.ExtHostCommands.executeCommand (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:129500)
+	at I.registerCommand.description (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:128793)
+	at e.ExtHostCommands.h (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:130710)
+	at e.ExtHostCommands.g (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:129600)
+	at e.ExtHostCommands.executeCommand (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:129500)
+	at Object.executeCommand (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:117:25248)
+	at D (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/extensions/git/dist/main.js:2:1261542)
+	at b.invoke (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at deliver (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at n.fire (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at Object.m [as dispose] (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/extensions/git/dist/main.js:2:1276197)
+	at /home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/extensions/git/dist/main.js:2:1280699
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/extensions/git/dist/main.js:2:1280685)
+	at r.<anonymous> (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:97:12640)
+	at r.dispose (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:97:12775)
+	at r.<anonymous> (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/extensions/git/dist/main.js:2:1263672)
+	at r.dispose (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:97:12775)
+	at C (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:10:12085)
+	at n.Z (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:113:11285)
+	at /home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:113:9187
+	at Array.map (<anonymous>)
+	at n.S (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:113:9175)
+	at n.terminate (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:113:9445)
+	at h.terminate (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:117:1544)
+	at p (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:127:34497)
+	at H.a (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:127:31052)
+	at H.h (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:67:18326)
+	at listOnTimeout (node:internal/timers:559:17)
+	at processTimers (node:internal/timers:502:7) setContext undefined
+2023-09-15 01:14:47.431 [error] Canceled: Canceled
+	at new c (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:105827)
+	at a.O (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:111:11756)
+	at Proxy.z.<computed>.H.charCodeAt.z.<computed> (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:111:9031)
+	at e.ExtHostCommands.g (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:130124)
+	at e.ExtHostCommands.executeCommand (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:129500)
+	at I.registerCommand.description (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:128793)
+	at e.ExtHostCommands.h (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:130710)
+	at e.ExtHostCommands.g (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:129600)
+	at e.ExtHostCommands.executeCommand (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:129500)
+	at Object.executeCommand (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:117:25248)
+	at D (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/extensions/git/dist/main.js:2:1261542)
+	at b.invoke (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at deliver (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at n.fire (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at Object.m [as dispose] (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/extensions/git/dist/main.js:2:1276197)
+	at /home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/extensions/git/dist/main.js:2:1280699
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/extensions/git/dist/main.js:2:1280685)
+	at r.<anonymous> (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:97:12640)
+	at r.dispose (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:97:12775)
+	at r.<anonymous> (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/extensions/git/dist/main.js:2:1263672)
+	at r.dispose (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:97:12775)
+	at C (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:10:12085)
+	at n.Z (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:113:11285)
+	at /home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:113:9187
+	at Array.map (<anonymous>)
+	at n.S (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:113:9175)
+	at n.terminate (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:113:9445)
+	at h.terminate (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:117:1544)
+	at p (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:127:34497)
+	at H.a (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:127:31052)
+	at H.h (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:67:18326)
+	at listOnTimeout (node:internal/timers:559:17)
+	at processTimers (node:internal/timers:502:7) setContext undefined
+2023-09-15 01:14:47.431 [error] Canceled: Canceled
+	at new c (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:105827)
+	at a.O (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:111:11756)
+	at Proxy.z.<computed>.H.charCodeAt.z.<computed> (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:111:9031)
+	at e.ExtHostCommands.g (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:130124)
+	at e.ExtHostCommands.executeCommand (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:129500)
+	at I.registerCommand.description (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:128793)
+	at e.ExtHostCommands.h (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:130710)
+	at e.ExtHostCommands.g (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:129600)
+	at e.ExtHostCommands.executeCommand (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:129500)
+	at Object.executeCommand (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:117:25248)
+	at D (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/extensions/git/dist/main.js:2:1261542)
+	at b.invoke (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at deliver (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at n.fire (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at Object.m [as dispose] (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/extensions/git/dist/main.js:2:1276197)
+	at /home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/extensions/git/dist/main.js:2:1280699
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/extensions/git/dist/main.js:2:1280685)
+	at r.<anonymous> (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:97:12640)
+	at r.dispose (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:97:12775)
+	at r.<anonymous> (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/extensions/git/dist/main.js:2:1263672)
+	at r.dispose (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:97:12775)
+	at C (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:10:12085)
+	at n.Z (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:113:11285)
+	at /home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:113:9187
+	at Array.map (<anonymous>)
+	at n.S (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:113:9175)
+	at n.terminate (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:113:9445)
+	at h.terminate (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:117:1544)
+	at p (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:127:34497)
+	at H.a (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:127:31052)
+	at H.h (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:67:18326)
+	at listOnTimeout (node:internal/timers:559:17)
+	at processTimers (node:internal/timers:502:7) setContext undefined
+2023-09-15 01:14:47.433 [error] Canceled: Canceled
+	at new c (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:105827)
+	at a.O (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:111:11756)
+	at Proxy.z.<computed>.H.charCodeAt.z.<computed> (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:111:9031)
+	at e.ExtHostCommands.g (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:130124)
+	at e.ExtHostCommands.executeCommand (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:129500)
+	at I.registerCommand.description (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:128793)
+	at e.ExtHostCommands.h (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:130710)
+	at e.ExtHostCommands.g (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:129600)
+	at e.ExtHostCommands.executeCommand (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:99:129500)
+	at Object.executeCommand (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:117:25248)
+	at p.VscodeDevShareProvider.set b [as b] (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/extensions/github/dist/extension.js:2:152871)
+	at /home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/extensions/github/dist/extension.js:2:153581
+	at /home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/extensions/git/dist/main.js:2:1349690
+	at b.invoke (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at deliver (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at n.fire (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at Object.m [as dispose] (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/extensions/git/dist/main.js:2:1276197)
+	at /home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/extensions/git/dist/main.js:2:1280699
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/extensions/git/dist/main.js:2:1280685)
+	at r.<anonymous> (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:97:12640)
+	at r.dispose (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:97:12775)
+	at r.<anonymous> (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/extensions/git/dist/main.js:2:1263672)
+	at r.dispose (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:97:12775)
+	at C (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:10:12085)
+	at n.Z (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:113:11285)
+	at /home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:113:9187
+	at Array.map (<anonymous>)
+	at n.S (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:113:9175)
+	at n.terminate (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:113:9445)
+	at h.terminate (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:117:1544)
+	at p (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:127:34497)
+	at H.a (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:127:31052)
+	at H.h (/home/beast/.cursor-server/bin/0.10.4-c0db898419c36107211de244bdcf5f412c1a4920/out/vs/workbench/api/node/extensionHostProcess.js:67:18326)
+	at listOnTimeout (node:internal/timers:559:17)
+	at processTimers (node:internal/timers:502:7) setContext undefined
+2023-09-15 01:14:47.434 [info] Extension host with pid 3478 exiting with code 0

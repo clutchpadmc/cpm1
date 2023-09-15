@@ -1,0 +1,25 @@
+2023-09-15 01:09:48.334 [info] Extension host with pid 22839 started
+2023-09-15 01:09:48.340 [error] Error: EEXIST: file already exists, open '/home/beast/.cursor-server/data/User/workspaceStorage/212b9798974b60f4762a8d8c99a009fc/vscode.lock'
+2023-09-15 01:09:48.344 [info] Lock '/home/beast/.cursor-server/data/User/workspaceStorage/212b9798974b60f4762a8d8c99a009fc/vscode.lock': Could not acquire lock, checking if the file is stale.
+2023-09-15 01:09:48.355 [info] Lock '/home/beast/.cursor-server/data/User/workspaceStorage/212b9798974b60f4762a8d8c99a009fc/vscode.lock': The lock does not look stale, elapsed: 309 ms, giving up.
+2023-09-15 01:09:48.362 [info] Lock '/home/beast/.cursor-server/data/User/workspaceStorage/212b9798974b60f4762a8d8c99a009fc-1/vscode.lock': Lock acquired.
+2023-09-15 01:09:48.517 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-09-15 01:09:48.663 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-09-15 01:09:49.072 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-09-15 01:09:49.073 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-09-15 01:09:50.548 [info] Eager extensions activated
+2023-09-15 01:09:50.549 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2023-09-15 01:09:50.549 [info] ExtensionService#_doActivateExtension anysphere.cursor-tokenize, startup: false, activationEvent: 'onStartupFinished'
+2023-09-15 01:09:50.550 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-09-15 01:09:50.550 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-09-15 01:09:53.187 [warning] [Decorations] CAPPING events from decorations provider vscode.git 512
+2023-09-15 01:09:53.747 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9000
+2023-09-15 02:18:26.914 [warning] [Decorations] CAPPING events from decorations provider vscode.git 512
+2023-09-15 02:18:27.330 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9061
+2023-09-15 02:18:28.405 [warning] [Decorations] CAPPING events from decorations provider vscode.git 512
+2023-09-15 03:51:40.994 [warning] [Decorations] CAPPING events from decorations provider vscode.git 512
+2023-09-15 03:51:44.521 [warning] [Decorations] CAPPING events from decorations provider vscode.git 512
+2023-09-15 03:51:58.452 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10144
+2023-09-15 03:52:03.259 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10002
+2023-09-15 03:52:05.837 [error] Actual command not found, wanted to execute git.commit/52 __vsclmjwjue3 undefined
+2023-09-15 03:52:07.288 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10002

@@ -1,338 +1,324 @@
-[00:34:58] [Server thread/INFO]: cjdaman21 lost connection: Disconnected
-[00:34:58] [Server thread/INFO]: Farewell to this realm, cjdaman21
-[01:07:07] [User Authenticator #23/INFO]: UUID of player Cestroid is 639b2c9b-c65b-46ad-92f6-c6d9320b2bd8
-[01:07:07] [Server thread/INFO]: Cestroid[/73.245.111.30:54560] logged in with entity id 100338 at ([world]-452.60652625774514, 59.0, 179.00438289805246)
-[01:07:08] [Server thread/INFO]: Welcome to the beastly realm, Cestroid, there are 1 players currently crafting the day away![m
-[01:18:01] [User Authenticator #24/INFO]: UUID of player cjdaman21 is e39119b3-8c1c-4a2c-b544-e2c8ee301b0d
-[01:18:01] [Server thread/INFO]: cjdaman21[/73.183.112.179:52611] logged in with entity id 102214 at ([world]-10879.95591408566, 71.0, -2480.6467395870955)
-[01:18:02] [Server thread/INFO]: Welcome to the beastly realm, cjdaman21, there are 2 players currently crafting the day away![m
-[01:18:16] [Async Chat Thread - #84/INFO]: <cjdaman21> sleep[m
-[01:18:26] [Server thread/INFO]: Cestroid lost connection: Disconnected
-[01:18:26] [Server thread/INFO]: Farewell to this realm, Cestroid
-[01:18:36] [User Authenticator #25/INFO]: UUID of player Cestroid is 639b2c9b-c65b-46ad-92f6-c6d9320b2bd8
-[01:18:36] [Server thread/INFO]: Cestroid[/73.245.111.30:54626] logged in with entity id 102536 at ([world]-476.8625599843093, 37.0, -11.48576531175261)
-[01:18:36] [Server thread/INFO]: Welcome to the beastly realm, Cestroid, there are 2 players currently crafting the day away![m
-[01:18:41] [Async Chat Thread - #84/INFO]: <cjdaman21> piss?[m
-[01:19:04] [Async Chat Thread - #85/INFO]: <Cestroid> gimem a sec[m
-[01:19:08] [Async Chat Thread - #84/INFO]: <cjdaman21> aight[m
-[01:20:57] [Async Chat Thread - #86/INFO]: <cjdaman21> ill join when you get on[m
-[01:21:14] [Async Chat Thread - #86/INFO]: <Cestroid> okey[m
-[01:22:20] [Async Chat Thread - #88/INFO]: <Cestroid> wanna do daily forts?[m
-[01:22:24] [Async Chat Thread - #88/INFO]: <cjdaman21> ye[m
-[01:22:28] [Async Chat Thread - #89/INFO]: <Cestroid> aight[m
-[01:22:36] [Server thread/INFO]: cjdaman21 lost connection: Disconnected
-[01:22:36] [Server thread/INFO]: Farewell to this realm, cjdaman21
-[01:22:37] [Async Chat Thread - #88/INFO]: <Cestroid> ill be in piss in 30 sec\[m
-[01:22:41] [Server thread/INFO]: Cestroid lost connection: Disconnected
-[01:22:41] [Server thread/INFO]: Farewell to this realm, Cestroid
-[01:35:00] [Server thread/INFO]: CONSOLE issued server command: /online 
-[01:35:00] [Server thread/INFO]: [0;33;22mThere are [0;31;1m0[0;33;22m out of maximum [0;31;1m20[0;33;22m players online.[m
-[02:17:43] [Craft Scheduler Thread - 66/INFO]: [Vault] Checking for Updates ... 
-[02:17:43] [Craft Scheduler Thread - 66/INFO]: [Vault] No new version available
-[02:19:12] [Server thread/INFO]: CONSOLE issued server command: /online 
-[02:19:12] [Server thread/INFO]: [0;33;22mThere are [0;31;1m0[0;33;22m out of maximum [0;31;1m20[0;33;22m players online.[m
-[02:27:40] [User Authenticator #26/INFO]: UUID of player Cestroid is 639b2c9b-c65b-46ad-92f6-c6d9320b2bd8
-[02:27:40] [Server thread/INFO]: Cestroid[/73.245.111.30:54851] logged in with entity id 103995 at ([world]-390.0888848830975, 67.0, -58.25602770262789)
-[02:27:41] [Server thread/INFO]: Welcome to the beastly realm, Cestroid, there are 1 players currently crafting the day away![m
-[02:28:54] [Server thread/INFO]: com.mojang.authlib.GameProfile@13d62007[id=<null>,name=clutch2dope,properties={},legacy=false] (/47.184.120.151:57350) lost connection: Disconnected
-[02:29:27] [Server thread/INFO]: [Not Secure] [Server] on sec
-[02:29:32] [Server thread/INFO]: CONSOLE issued server command: /broadcast frfr'
-[02:29:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@501a65c0[id=<null>,name=clutch2dope,properties={},legacy=false] (/47.184.120.151:57402) lost connection: Disconnected
-[02:30:46] [User Authenticator #27/INFO]: UUID of player clutch2dope is b962a643-ce32-440d-8004-e4999901efb3
-[02:30:47] [Server thread/INFO]: clutch2dope[/47.184.120.151:57460] logged in with entity id 104767 at ([world]-533.3000000119209, -59.0, 350.69999998807907)
-[02:30:47] [Server thread/INFO]: Welcome to the beastly realm, clutch2dope, there are 2 players currently crafting the day away![m
-[02:30:52] [Async Chat Thread - #91/INFO]: <clutch2dope> 2 dope[m
-[02:30:53] [Async Chat Thread - #91/INFO]: <Cestroid> CLURCH\[m
-[02:31:06] [Async Chat Thread - #92/INFO]: <clutch2dope> where my cheddas at[m
-[02:31:08] [Server thread/INFO]: CONSOLE issued server command: /broadcast frfr'
-[02:31:24] [Async Chat Thread - #91/INFO]: <Cestroid> I JUST BE IN THE DESERT[m
-[02:31:32] [Async Chat Thread - #92/INFO]: <clutch2dope> 2dope[m
-[02:32:07] [Async Chat Thread - #91/INFO]: <clutch2dope> hittin nigggas wit tha rocket launcha[m
-[02:32:11] [Server thread/INFO]: CONSOLE issued server command: /broadcast frfr
-[02:32:30] [Async Chat Thread - #92/INFO]: <clutch2dope> dang ap expanded this place like cray[m
-[02:32:34] [Async Chat Thread - #92/INFO]: <clutch2dope> giant slime tho[m
-[02:32:40] [Async Chat Thread - #92/INFO]: <Cestroid> dang[m
-[02:32:46] [Async Chat Thread - #91/INFO]: <Cestroid> you down under?[m
-[02:32:54] [Async Chat Thread - #92/INFO]: <clutch2dope> shits 2dope[m
-[02:32:57] [Async Chat Thread - #92/INFO]: <clutch2dope> yeh[m
-[02:33:16] [Async Chat Thread - #91/INFO]: <Cestroid> aint been down ere in a minute[m
-[02:33:18] [Async Chat Thread - #92/INFO]: <Cestroid> fr fr[m
-[02:33:19] [Async Chat Thread - #92/INFO]: <clutch2dope> tf bl;ast furnace do[m
-[02:33:21] [Server thread/INFO]: CONSOLE issued server command: /broadcast frfr
-[02:33:54] [Async Chat Thread - #91/INFO]: <Cestroid> tf[m
-[02:34:00] [Async Chat Thread - #91/INFO]: <Cestroid> where you talm bout[m
-[02:34:12] [Async Chat Thread - #92/INFO]: <clutch2dope> lowa level[m
-[02:34:19] [Async Chat Thread - #91/INFO]: <Cestroid> how get[m
-[02:34:28] [Async Chat Thread - #92/INFO]: <clutch2dope> ion kno tbr[m
-[02:34:32] [Async Chat Thread - #91/INFO]: <clutch2dope> ap did some weird move[m
-[02:34:47] [Async Chat Thread - #92/INFO]: <Cestroid> ahhhh ap make cents[m
-[02:34:59] [Async Chat Thread - #92/INFO]: <Cestroid> ohhh][m
-[02:35:02] [Async Chat Thread - #92/INFO]: <Cestroid> u turn[m
-[02:35:26] [Async Chat Thread - #91/INFO]: <Cestroid> bro found a ameystst[m
-[02:35:27] [Async Chat Thread - #91/INFO]: <clutch2dope> rich af[m
-[02:35:48] [Async Chat Thread - #91/INFO]: <clutch2dope> enchant?[m
-[02:35:48] [Async Chat Thread - #91/INFO]: <Cestroid> obsideiom[m
-[02:35:53] [Async Chat Thread - #91/INFO]: <Cestroid> let get this shit[m
-[02:35:56] [Async Chat Thread - #91/INFO]: <clutch2dope> u got dia pick?[m
-[02:36:17] [Async Chat Thread - #92/INFO]: <Cestroid> hey minecraft craft me a diamond pix[m
-[02:36:25] [Async Chat Thread - #92/INFO]: <Cestroid> thx[m
-[02:36:39] [Server thread/INFO]: Cestroid has made the advancement [Ice Bucket Challenge]
-[02:37:00] [Server thread/INFO]: CONSOLE issued server command: /broadcast 2023-09-14 02:36:38.308 [info] > git status -z -uall [260ms]
-[02:37:00] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[02:37:00] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[02:37:00] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[02:37:02] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[02:37:21] [Async Chat Thread - #91/INFO]: <clutch2dope> obsidedon[m
-[02:37:39] [Async Chat Thread - #92/INFO]: <Cestroid> we can make a netha portal[m
-[02:37:43] [Async Chat Thread - #92/INFO]: <clutch2dope> fr fr[m
-[02:37:48] [Server thread/INFO]: [Not Secure] [Server] 2dope
-[02:39:19] [Async Chat Thread - #93/INFO]: <clutch2dope> dont let the dragon drag on[m
-[02:39:39] [Async Chat Thread - #93/INFO]: <Cestroid> y the dragon[m
-[02:40:04] [Async Chat Thread - #94/INFO]: <clutch2dope> where that from again??[m
-[02:40:28] [Async Chat Thread - #93/INFO]: <Cestroid> cj minecraft username got changed to that once[m
-[02:40:34] [Async Chat Thread - #94/INFO]: <clutch2dope> ohhhhhh yeahhhh[m
-[02:41:12] [Async Chat Thread - #94/INFO]: <clutch2dope> how many bloques[m
-[02:41:56] [Async Chat Thread - #93/INFO]: <Cestroid> like 22 lol[m
-[02:41:59] [Async Chat Thread - #94/INFO]: <Cestroid> we richj[m
-[02:42:22] [Async Chat Thread - #94/INFO]: <clutch2dope> oh we rich rich[m
-[02:42:28] [Async Chat Thread - #93/INFO]: <Cestroid> ok 24 good[m
-[02:43:06] [Async Chat Thread - #94/INFO]: <clutch2dope> those stairs crazyyy quiq[m
-[02:43:20] [Async Chat Thread - #94/INFO]: <clutch2dope> DOPE[m
-[02:44:33] [Async Chat Thread - #95/INFO]: <Cestroid> got a light?[m
-[02:44:37] [Async Chat Thread - #96/INFO]: <clutch2dope> heheheh[m
-[02:44:59] [Async Chat Thread - #95/INFO]: <clutch2dope> we need food[m
-[02:45:16] [Async Chat Thread - #96/INFO]: <Cestroid> beet roots out back[m
-[02:45:24] [Async Chat Thread - #95/INFO]: <clutch2dope> harvestin[m
-[02:45:28] [Async Chat Thread - #96/INFO]: <clutch2dope> tf u do wit these?[m
-[02:45:39] [Async Chat Thread - #96/INFO]: <Cestroid> idk can eat em?[m
-[02:46:06] [Async Chat Thread - #95/INFO]: <clutch2dope> yeh they like half a meat lol[m
-[02:46:09] [Async Chat Thread - #96/INFO]: <clutch2dope> can u cook?[m
-[02:46:09] [Async Chat Thread - #95/INFO]: <Cestroid> lfg[m
-[02:46:13] [Async Chat Thread - #96/INFO]: <Cestroid> kaybe[m
-[02:46:26] [Async Chat Thread - #95/INFO]: <clutch2dope> nope![m
-[02:46:37] [Async Chat Thread - #96/INFO]: <Cestroid> tf you make a ender chest[m
-[02:46:57] [Async Chat Thread - #95/INFO]: <clutch2dope> beetroot stew![m
-[02:47:07] [Async Chat Thread - #96/INFO]: <Cestroid> shit sound gooddd[m
-[02:48:56] [Async Chat Thread - #98/INFO]: <Cestroid> TO THE PODS[m
-[02:49:01] [Async Chat Thread - #97/INFO]: <clutch2dope> #1[m
-[02:49:14] [Async Chat Thread - #98/INFO]: <clutch2dope> let day be day[m
-[02:49:21] [Async Chat Thread - #97/INFO]: <clutch2dope> and cj be gay![m
-[02:49:29] [Async Chat Thread - #98/INFO]: <Cestroid> i give ya some fish for now but let go to the mnether[m
-[02:49:33] [Async Chat Thread - #97/INFO]: <clutch2dope> tf takin so long[m
-[02:49:59] [Async Chat Thread - #98/INFO]: <Cestroid> tf it still night[m
-[02:50:12] [Async Chat Thread - #97/INFO]: <Cestroid> musta set me alrm too early[m
-[02:50:28] [Async Chat Thread - #98/INFO]: <Cestroid> goin back to bed[m
-[02:50:30] [Async Chat Thread - #97/INFO]: <Cestroid> fr fr[m
-[02:50:35] [Async Chat Thread - #98/INFO]: <clutch2dope> aite[m
-[02:50:38] [Async Chat Thread - #97/INFO]: <clutch2dope> #1[m
-[02:50:46] [Server thread/INFO]: Villager EntityVillager['Nitwit'/104216, l='ServerLevel[world]', x=-431.26, y=62.00, z=127.46] died, message: 'Nitwit was slain by Zombie'
-[02:50:47] [Async Chat Thread - #98/INFO]: <clutch2dope> 1 sec[m
-[02:50:52] [Async Chat Thread - #97/INFO]: <Cestroid> u gunna wear armor or what[m
-[02:50:56] [Async Chat Thread - #97/INFO]: <clutch2dope> yeh[m
-[02:51:17] [Async Chat Thread - #97/INFO]: <Cestroid> there 7 iron cooking top left if need pants[m
-[02:51:28] [Server thread/INFO]: clutch2dope has made the advancement [Suit Up]
-[02:51:38] [Async Chat Thread - #98/INFO]: <Cestroid> fr fr[m
-[02:51:51] [Async Chat Thread - #97/INFO]: <Cestroid> im finna go deeper[m
-[02:51:57] [Server thread/INFO]: Cestroid has made the advancement [We Need to Go Deeper]
-[02:52:14] [Async Chat Thread - #98/INFO]: <Cestroid> found me a specimen[m
-[02:52:32] [Async Chat Thread - #98/INFO]: <Cestroid> grabbin some dope ass shrooms[m
-[02:52:53] [Async Chat Thread - #98/INFO]: <clutch2dope> wya[m
-[02:52:56] [Async Chat Thread - #97/INFO]: <clutch2dope> netha?[m
-[02:53:01] [Async Chat Thread - #98/INFO]: <Cestroid> went deepa[m
-[02:53:07] [Async Chat Thread - #97/INFO]: <clutch2dope> huh[m
-[02:53:10] [Async Chat Thread - #98/INFO]: <clutch2dope> netha?[m
-[02:53:20] [Async Chat Thread - #98/INFO]: <clutch2dope> nigga[m
-[02:53:51] [Server thread/INFO]: clutch2dope has made the advancement [We Need to Go Deeper]
-[02:54:11] [Async Chat Thread - #98/INFO]: <clutch2dope> warped fungus![m
-[02:54:17] [Async Chat Thread - #98/INFO]: <clutch2dope> a fungus amongus[m
-[02:54:19] [Async Chat Thread - #97/INFO]: <Cestroid> mhmm[m
-[02:54:28] [Async Chat Thread - #97/INFO]: <clutch2dope> shit goes warpee[m
-[02:54:30] [Async Chat Thread - #98/INFO]: <clutch2dope> shit goes warped[m
-[02:54:34] [Async Chat Thread - #97/INFO]: <Cestroid> grabbin some blue ass wood[m
-[02:55:35] [Async Chat Thread - #99/INFO]: <Cestroid> tf are we[m
-[02:55:41] [Async Chat Thread - #99/INFO]: <clutch2dope> multiverse![m
-[02:55:50] [Async Chat Thread - #100/INFO]: <Cestroid> dr weird[m
-[02:56:14] [Async Chat Thread - #99/INFO]: <Cestroid> BROKE ASS BOY[m
-[02:56:26] [Async Chat Thread - #100/INFO]: <clutch2dope> i got a diamond pick i aint wanna waste[m
-[02:56:31] [Async Chat Thread - #99/INFO]: <Cestroid> wanna go over ere[m
-[02:56:41] [Async Chat Thread - #99/INFO]: <clutch2dope> lavadiving[m
-[02:57:18] [Async Chat Thread - #100/INFO]: <clutch2dope> niiiiice[m
-[02:57:25] [Async Chat Thread - #99/INFO]: <clutch2dope> tf these niqqas[m
-[02:57:52] [Server thread/INFO]: clutch2dope has made the advancement [Those Were the Days]
-[02:57:57] [Server thread/INFO]: Cestroid has made the advancement [Those Were the Days]
-[02:58:54] [Async Chat Thread - #102/INFO]: <Cestroid> lame ass dude fr[m
-[02:59:10] [Async Chat Thread - #102/INFO]: <Cestroid> dude all most killed my ass[m
-[02:59:32] [Async Chat Thread - #102/INFO]: <clutch2dope> killed his ass[m
-[02:59:35] [Async Chat Thread - #101/INFO]: <clutch2dope> or i mean her[m
-[02:59:37] [Async Chat Thread - #102/INFO]: <clutch2dope> micelle[m
-[02:59:38] [Async Chat Thread - #101/INFO]: <Cestroid> dope shit[m
-[02:59:40] [Async Chat Thread - #102/INFO]: <clutch2dope> michelle[m
-[02:59:43] [Async Chat Thread - #101/INFO]: <clutch2dope> wya[m
-[02:59:52] [Async Chat Thread - #101/INFO]: <Cestroid> lost as hell now[m
-[03:00:59] [Async Chat Thread - #104/INFO]: <Cestroid> once was lost but now im found[m
-[03:01:22] [Async Chat Thread - #104/INFO]: <clutch2dope> i cot on fire[m
-[03:02:15] [Async Chat Thread - #103/INFO]: <clutch2dope> wscardiepants[m
-[03:02:21] [Async Chat Thread - #104/INFO]: <Cestroid> ahhh[m
-[03:02:32] [Async Chat Thread - #103/INFO]: <clutch2dope> hogs lookin good tonight![m
-[03:02:33] [Async Chat Thread - #103/INFO]: <Cestroid> dudes tweakin[m
-[03:02:45] [Async Chat Thread - #104/INFO]: <Cestroid> look overe in the lava pits[m
-[03:03:06] [Async Chat Thread - #104/INFO]: <clutch2dope> niqqa cant do shit[m
-[03:03:08] [Async Chat Thread - #104/INFO]: <Cestroid> dumbas[m
-[03:03:52] [Async Chat Thread - #103/INFO]: <clutch2dope> zachrelli type bloque[m
-[03:03:54] [Async Chat Thread - #104/INFO]: <Cestroid> they mad we aint reppin there gang[m
-[03:04:07] [Async Chat Thread - #103/INFO]: <clutch2dope> they only like cj[m
-[03:04:15] [Async Chat Thread - #104/INFO]: <clutch2dope> bonus mom[m
-[03:04:29] [Async Chat Thread - #104/INFO]: <clutch2dope> this place a piece of shit[m
-[03:06:16] [Async Chat Thread - #105/INFO]: <clutch2dope> I M RICH[m
-[03:06:26] [Async Chat Thread - #105/INFO]: <clutch2dope> another nether portal??[m
-[03:06:32] [Async Chat Thread - #106/INFO]: <clutch2dope> bro[m
-[03:06:38] [Async Chat Thread - #105/INFO]: <Cestroid> cj mus t been here[m
-[03:07:19] [Async Chat Thread - #105/INFO]: <Cestroid> where all the good shit at[m
-[03:07:27] [Async Chat Thread - #106/INFO]: <clutch2dope> i got 2 gold bloque[m
-[03:08:10] [Async Chat Thread - #106/INFO]: <clutch2dope> this like a dungleon[m
-[03:08:24] [Async Chat Thread - #105/INFO]: <clutch2dope> wya[m
-[03:08:40] [Async Chat Thread - #106/INFO]: <Cestroid> rtrue[m
-[03:09:39] [Async Chat Thread - #105/INFO]: <Cestroid> this the shit we just went down??[m
-[03:09:43] [Async Chat Thread - #106/INFO]: <clutch2dope> ion[m
-[03:10:15] [Server thread/INFO]: clutch2dope was slain by Piglin Brute
-[03:10:19] [Async Chat Thread - #105/INFO]: <Cestroid> dude[m
-[03:10:20] [Async Chat Thread - #106/INFO]: <clutch2dope> nooooo[m
-[03:10:27] [Async Chat Thread - #105/INFO]: <Cestroid> bro was not chill with us[m
-[03:11:18] [Async Chat Thread - #105/INFO]: <clutch2dope> u got me shit[m
-[03:11:19] [Async Chat Thread - #106/INFO]: <clutch2dope> ?[m
-[03:11:20] [Async Chat Thread - #105/INFO]: <Cestroid> where u die at so i can kill this hog[m
-[03:11:33] [Async Chat Thread - #105/INFO]: <clutch2dope> in some hallway[m
-[03:11:47] [Async Chat Thread - #106/INFO]: <Cestroid> my pixaxe just break not good[m
-[03:12:30] [Async Chat Thread - #105/INFO]: <Cestroid> git ya shit[m
-[03:12:38] [Async Chat Thread - #105/INFO]: <Cestroid> no clue where hog went[m
-[03:13:08] [Server thread/INFO]: clutch2dope was slain by Piglin Brute
-[03:13:14] [Async Chat Thread - #105/INFO]: <clutch2dope> dang[m
-[03:13:23] [Async Chat Thread - #105/INFO]: <clutch2dope> there these guys guardin chest[m
-[03:13:34] [Async Chat Thread - #106/INFO]: <Cestroid> there a chext??[m
-[03:13:38] [Async Chat Thread - #106/INFO]: <clutch2dope> yup[m
-[03:13:40] [Async Chat Thread - #105/INFO]: <Cestroid> SHifts probably dinsane[m
-[03:13:49] [Async Chat Thread - #106/INFO]: <clutch2dope> like rite below u[m
-[03:13:53] [Async Chat Thread - #106/INFO]: <clutch2dope> u find me shite?[m
-[03:14:03] [Async Chat Thread - #105/INFO]: <Cestroid> yhe[m
-[03:14:11] [Async Chat Thread - #106/INFO]: <clutch2dope> u get it?[m
-[03:14:30] [Async Chat Thread - #105/INFO]: <Cestroid> they mad as hell thpo[m
-[03:14:44] [Async Chat Thread - #106/INFO]: <Cestroid> found a chest fr fr but no room in inven to check out[m
-[03:14:51] [Async Chat Thread - #105/INFO]: <Cestroid> will have to come back[m
-[03:15:17] [Server thread/INFO]: clutch2dope was slain by Piglin Brute
-[03:15:20] [Async Chat Thread - #105/INFO]: <clutch2dope> bru[m
-[03:17:18] [Async Chat Thread - #107/INFO]: <Cestroid> im in the ceiling[m
-[03:17:24] [Async Chat Thread - #108/INFO]: <clutch2dope> ahh[m
-[03:17:26] [Async Chat Thread - #108/INFO]: <clutch2dope> i belowu[m
-[03:18:51] [Async Chat Thread - #109/INFO]: <clutch2dope> me diamond piq[m
-[03:18:52] [Async Chat Thread - #109/INFO]: <Cestroid> this pic urs>[m
-[03:18:52] [Async Chat Thread - #109/INFO]: <clutch2dope> ?[m
-[03:18:54] [Async Chat Thread - #109/INFO]: <clutch2dope> ah[m
-[03:19:10] [Async Chat Thread - #110/INFO]: <Cestroid> dope[m
-[03:19:15] [Async Chat Thread - #109/INFO]: <clutch2dope> 2clutch[m
-[03:19:49] [Async Chat Thread - #110/INFO]: <Cestroid> chest in there but big dudes about[m
-[03:19:51] [Async Chat Thread - #109/INFO]: <clutch2dope> beasts dwellin[m
-[03:19:55] [Async Chat Thread - #110/INFO]: <clutch2dope> toot toot![m
-[03:20:08] [Async Chat Thread - #109/INFO]: <clutch2dope> lots of em[m
-[03:20:44] [Async Chat Thread - #110/INFO]: <Cestroid> dont let em across[m
-[03:20:50] [Async Chat Thread - #110/INFO]: <Cestroid> lure em over to die[m
-[03:22:07] [Server thread/INFO]: clutch2dope has made the advancement [War Pigs]
-[03:22:10] [Async Chat Thread - #112/INFO]: <Cestroid> more in ere[m
-[03:22:20] [Server thread/INFO]: clutch2dope has made the advancement [Ice Bucket Challenge]
-[03:22:24] [Async Chat Thread - #111/INFO]: <clutch2dope> rich af[m
-[03:23:08] [Async Chat Thread - #112/INFO]: <clutch2dope> 2 diamond pick[m
-[03:23:14] [Async Chat Thread - #111/INFO]: <clutch2dope> one silk touch one efficiency[m
-[03:23:39] [Async Chat Thread - #111/INFO]: <Cestroid> any gold armor?[m
-[03:23:46] [Async Chat Thread - #112/INFO]: <clutch2dope> nahhh[m
-[03:23:52] [Async Chat Thread - #111/INFO]: <clutch2dope> iron sword curse o vanishing[m
-[03:23:59] [Async Chat Thread - #111/INFO]: <Cestroid> dope ass shit\[m
-[03:24:15] [Async Chat Thread - #112/INFO]: <clutch2dope> tbh need rendar chest[m
-[03:24:19] [Async Chat Thread - #111/INFO]: <Cestroid> yeh[m
-[03:24:26] [Async Chat Thread - #112/INFO]: <Cestroid> need blazr rod for at tho[m
-[03:24:35] [Async Chat Thread - #111/INFO]: <clutch2dope> got 4 magma cream[m
-[03:25:59] [Async Chat Thread - #114/INFO]: <Cestroid> yeo[m
-[03:26:02] [Async Chat Thread - #113/INFO]: <Cestroid> portal[m
-[03:26:05] [Async Chat Thread - #114/INFO]: <clutch2dope> cjames poortal[m
-[03:26:18] [Async Chat Thread - #113/INFO]: <Cestroid> there gotta be more chest in this shit[m
-[03:26:23] [Async Chat Thread - #114/INFO]: <clutch2dope> mhhmm[m
-[03:27:14] [Async Chat Thread - #113/INFO]: <Cestroid> i see one down ere[m
-[03:27:19] [Async Chat Thread - #114/INFO]: <Cestroid> in the gold shit pile[m
-[03:27:22] [Async Chat Thread - #113/INFO]: <clutch2dope> GOLD[m
-[03:28:45] [Server thread/INFO]: Cestroid has made the advancement [War Pigs]
-[03:28:54] [Async Chat Thread - #116/INFO]: <clutch2dope> hot hot hot[m
-[03:29:06] [Async Chat Thread - #116/INFO]: <Cestroid> the fuck is smithing table templates\[m
-[03:29:11] [Async Chat Thread - #116/INFO]: <clutch2dope> DOPE[m
-[03:29:16] [Server thread/INFO]: Cestroid has made the advancement [Who is Cutting Onions?]
-[03:30:16] [Server thread/INFO]: Cestroid fell from a high place
-[03:30:20] [Async Chat Thread - #117/INFO]: <clutch2dope> BRUH[m
-[03:30:24] [Async Chat Thread - #118/INFO]: <clutch2dope> wya??[m
-[03:30:26] [Async Chat Thread - #117/INFO]: <Cestroid> FUCK[m
-[03:30:37] [Async Chat Thread - #117/INFO]: <Cestroid> fell al the way doen into lava[m
-[03:30:41] [Async Chat Thread - #118/INFO]: <clutch2dope> dannng[m
-[03:30:42] [Async Chat Thread - #117/INFO]: <Cestroid> fuuuuck[m
-[03:31:04] [Async Chat Thread - #118/INFO]: <Cestroid> ion even care bout any the shit i had but i lost me smithing table shit\[m
-[03:31:10] [Async Chat Thread - #118/INFO]: <clutch2dope> NOOOO[m
-[03:31:34] [Async Chat Thread - #117/INFO]: <clutch2dope> i almost down 2 gold[m
-[03:31:46] [Async Chat Thread - #117/INFO]: <Cestroid> dope ass shit im finna load up and come back[m
-[03:32:27] [Async Chat Thread - #117/INFO]: <clutch2dope> magma slimes ere[m
-[03:35:09] [Async Chat Thread - #120/INFO]: <Cestroid> nether some dangerous ass shit fr fr[m
-[03:37:07] [Async Chat Thread - #121/INFO]: <clutch2dope> bruh spawner here[m
-[03:37:14] [Async Chat Thread - #121/INFO]: <Cestroid> what spawner\[m
-[03:37:18] [Async Chat Thread - #122/INFO]: <clutch2dope> magma cube[m
-[03:37:33] [Async Chat Thread - #121/INFO]: <Cestroid> ZAMNN[m
-[03:37:43] [Async Chat Thread - #122/INFO]: <Cestroid> i found new smithing table shit[m
-[03:38:21] [Async Chat Thread - #122/INFO]: <clutch2dope> yehhhh[m
-[03:38:27] [Async Chat Thread - #121/INFO]: <clutch2dope> this chest kinda sux[m
-[03:38:32] [Async Chat Thread - #122/INFO]: <Cestroid> you got any?[m
-[03:38:32] [Server thread/INFO]: clutch2dope has made the advancement [Hidden in the Depths]
-[03:38:32] [Server thread/INFO]: clutch2dope has made the advancement [Cover Me with Diamonds]
-[03:39:58] [Async Chat Thread - #124/INFO]: <clutch2dope> wya[m
-[03:40:03] [Async Chat Thread - #123/INFO]: <Cestroid> tryna find in[m
-[03:40:04] [Async Chat Thread - #124/INFO]: <clutch2dope> i see u tag a sec ago[m
-[03:40:23] [Async Chat Thread - #123/INFO]: <Cestroid> you still in ere?[m
-[03:40:28] [Async Chat Thread - #124/INFO]: <clutch2dope> yeh[m
-[03:40:31] [Async Chat Thread - #123/INFO]: <clutch2dope> gettin out rn[m
-[03:41:49] [Async Chat Thread - #126/INFO]: <clutch2dope> yooo[m
-[03:41:53] [Async Chat Thread - #125/INFO]: <clutch2dope> icu[m
-[03:42:03] [Server thread/INFO]: clutch2dope was slain by Piglin Brute
-[03:42:05] [Async Chat Thread - #126/INFO]: <Cestroid> yeh all me shit from earlier goneeee[m
-[03:42:09] [Async Chat Thread - #126/INFO]: <clutch2dope> bruhhh[m
-[03:42:11] [Async Chat Thread - #126/INFO]: <Cestroid> dude[m
-[03:42:14] [Async Chat Thread - #125/INFO]: <clutch2dope> i was like a lvl below u[m
-[03:42:21] [Async Chat Thread - #125/INFO]: <Cestroid> yeh i see[m
-[03:43:31] [Server thread/INFO]: Cestroid has made the advancement [Cover Me with Diamonds]
-[03:43:42] [Async Chat Thread - #127/INFO]: <Cestroid> gettin ya shit][m
-[03:43:48] [Async Chat Thread - #128/INFO]: <clutch2dope> nice[m
-[03:43:49] [Async Chat Thread - #128/INFO]: <clutch2dope> i close[m
-[03:44:51] [Async Chat Thread - #130/INFO]: <clutch2dope> gimme the loot![m
-[03:44:56] [Async Chat Thread - #129/INFO]: <clutch2dope> XD[m
-[03:45:22] [Async Chat Thread - #130/INFO]: <clutch2dope> aight[m
-[03:45:24] [Async Chat Thread - #129/INFO]: <clutch2dope> lets get out[m
-[03:45:38] [Async Chat Thread - #130/INFO]: <Cestroid> u have any netherite scraps or just the netherite ore[m
-[03:45:48] [Async Chat Thread - #129/INFO]: <clutch2dope> u got second pic ot did we lose that?[m
-[03:45:53] [Async Chat Thread - #130/INFO]: <clutch2dope> just scrap L/[m
-[03:45:55] [Async Chat Thread - #129/INFO]: <clutch2dope> :/[m
-[03:46:05] [Async Chat Thread - #130/INFO]: <Cestroid> u should have it...[m
-[03:46:11] [Async Chat Thread - #129/INFO]: <Cestroid> threw both>?[m
-[03:46:13] [Async Chat Thread - #129/INFO]: <clutch2dope> nah i had 3 diamond pics[m
-[03:46:21] [Async Chat Thread - #130/INFO]: <clutch2dope> one silk one efficiency i tink[m
-[03:46:22] [Async Chat Thread - #130/INFO]: <Cestroid> ohh i just find 2[m
-[03:47:17] [Async Chat Thread - #129/INFO]: <clutch2dope> suckass[m
-[03:47:35] [Async Chat Thread - #130/INFO]: <clutch2dope> NIIIICE[m
-[03:49:28] [Async Chat Thread - #131/INFO]: <Cestroid> idk this place might be all looted up[m
-[03:49:36] [Async Chat Thread - #132/INFO]: <clutch2dope> prolly[m
-[03:49:45] [Async Chat Thread - #131/INFO]: <clutch2dope> lets go home rq[m
-[03:51:12] [Async Chat Thread - #134/INFO]: <clutch2dope> entrance up ere[m
-[03:51:27] [Async Chat Thread - #133/INFO]: <Cestroid> clutch 2 dope[m
-[03:52:04] [Async Chat Thread - #133/INFO]: <clutch2dope> wya[m
-[03:52:18] [Async Chat Thread - #134/INFO]: <Cestroid> lookin for chests *SKull emoji[m
-[03:52:25] [Async Chat Thread - #133/INFO]: <clutch2dope> XD[m
-[03:52:32] [Async Chat Thread - #134/INFO]: <Cestroid> aight im comin[m
-[03:52:50] [Async Chat Thread - #133/INFO]: <clutch2dope> this shits massive[m
-[03:55:12] [Async Chat Thread - #136/INFO]: <Cestroid> made it back home with some dope ass loot[m
-[03:55:18] [Async Chat Thread - #136/INFO]: <Cestroid> only died a couple time[m
-[03:55:24] [Async Chat Thread - #135/INFO]: <clutch2dope> unloadinfg at clutchpad[m
-[03:57:21] [Async Chat Thread - #137/INFO]: <clutch2dope> so dope![m
-[03:57:25] [Async Chat Thread - #137/INFO]: <Cestroid> mhmmmmmm[m
-[03:57:37] [Async Chat Thread - #138/INFO]: <clutch2dope> whats this smithing shite[m
-[03:57:42] [Async Chat Thread - #137/INFO]: <Cestroid> idk[m
-[03:57:48] [Async Chat Thread - #138/INFO]: <Cestroid> prolly some new ass shit[m
+[00:32:36] [User Authenticator #34/INFO]: UUID of player forbritzeo is 393bbe0c-6db7-4404-a457-b64ee0fe48e9
+[00:32:37] [Server thread/INFO]: forbritzeo[/75.102.66.200:49371] logged in with entity id 152505 at ([world]-541.1503157031824, -59.0, 179.30488676291287)
+[00:32:37] [Server thread/INFO]: Welcome to the beastly realm, forbritzeo, there are 1 players currently crafting the day away![m
+[01:10:07] [Server thread/INFO]: CONSOLE issued server command: /online 
+[01:10:07] [Server thread/INFO]: [0;33;22mThere are [0;31;1m1[0;33;22m out of maximum [0;31;1m20[0;33;22m players online.[m
+[01:10:07] [Server thread/INFO]: [0;33;22mdefault[m: forbritzeo[0;37;1m[m
+[01:10:13] [Server thread/INFO]: CONSOLE issued server command: /broadcast ydo
+[01:10:17] [User Authenticator #35/INFO]: UUID of player clutch2dope is b962a643-ce32-440d-8004-e4999901efb3
+[01:10:17] [Server thread/INFO]: clutch2dope[/47.184.120.151:49647] logged in with entity id 158828 at ([world]-444.00989241752444, 63.0, 169.21720519482565)
+[01:10:17] [Server thread/INFO]: Welcome to the beastly realm, clutch2dope, there are 2 players currently crafting the day away![m
+[01:10:27] [Async Chat Thread - #204/INFO]: <forbritzeo> dope[m
+[01:10:31] [Async Chat Thread - #204/INFO]: <clutch2dope> ydo[m
+[01:10:35] [Async Chat Thread - #205/INFO]: <forbritzeo> i got some coal, we were lowwww[m
+[01:10:40] [Async Chat Thread - #204/INFO]: <clutch2dope> low-key[m
+[01:10:42] [Server thread/INFO]: [Not Secure] [Server] fr fr
+[01:11:02] [Async Chat Thread - #205/INFO]: <clutch2dope> roid n i did big ass raid inna nether lasnite[m
+[01:11:07] [Server thread/INFO]: [Not Secure] [Server] fr fr
+[01:11:13] [Async Chat Thread - #205/INFO]: <forbritzeo> netha raid??[m
+[01:11:16] [Async Chat Thread - #204/INFO]: <clutch2dope> mhhhmmm[m
+[01:11:33] [Async Chat Thread - #204/INFO]: <clutch2dope> n village raid[m
+[01:11:48] [Async Chat Thread - #205/INFO]: <clutch2dope> stole all resources from neighbor village to make farm[m
+[01:14:40] [Async Chat Thread - #207/INFO]: <clutch2dope> to the pods![m
+[01:14:46] [Server thread/INFO]: forbritzeo lost connection: Disconnected
+[01:14:46] [Server thread/INFO]: Farewell to this realm, forbritzeo
+[01:14:51] [User Authenticator #36/INFO]: UUID of player forbritzeo is 393bbe0c-6db7-4404-a457-b64ee0fe48e9
+[01:14:51] [Server thread/INFO]: forbritzeo[/75.102.66.200:49409] logged in with entity id 159738 at ([world]-549.4594553473737, -56.0, 178.54536386248736)
+[01:14:51] [Server thread/INFO]: Welcome to the beastly realm, forbritzeo, there are 2 players currently crafting the day away![m
+[01:15:12] [Server thread/INFO]: Villager EntityVillager['Cartographer'/158346, l='ServerLevel[world]', x=-447.18, y=64.00, z=180.24] died, message: 'Cartographer hit the ground too hard whilst trying to escape Zombie'
+[01:26:31] [Async Chat Thread - #208/INFO]: <clutch2dope> to the pods![m
+[01:26:32] [Async Chat Thread - #209/INFO]: <forbritzeo> drip stone[m
+[01:26:36] [Async Chat Thread - #209/INFO]: <clutch2dope> daaang[m
+[01:26:40] [Server thread/INFO]: forbritzeo lost connection: Disconnected
+[01:26:40] [Server thread/INFO]: Farewell to this realm, forbritzeo
+[01:26:45] [User Authenticator #37/INFO]: UUID of player forbritzeo is 393bbe0c-6db7-4404-a457-b64ee0fe48e9
+[01:26:45] [Server thread/INFO]: forbritzeo[/75.102.66.200:49421] logged in with entity id 162224 at ([world]-551.8397308632792, -56.0, 179.51488032546553)
+[01:26:45] [Server thread/INFO]: Welcome to the beastly realm, forbritzeo, there are 2 players currently crafting the day away![m
+[01:26:55] [Async Chat Thread - #208/INFO]: <forbritzeo> i need like 15 more[m
+[01:27:04] [Async Chat Thread - #209/INFO]: <clutch2dope> dripstone??[m
+[01:27:12] [Async Chat Thread - #209/INFO]: <forbritzeo> yeh[m
+[01:27:15] [Async Chat Thread - #208/INFO]: <clutch2dope> tf that[m
+[01:27:27] [Async Chat Thread - #209/INFO]: <forbritzeo> its drippy[m
+[01:27:36] [Async Chat Thread - #208/INFO]: <clutch2dope> fordripseo[m
+[01:28:47] [Async Chat Thread - #210/INFO]: <forbritzeo> we gotta get rails[m
+[01:29:21] [Async Chat Thread - #211/INFO]: <forbritzeo> i need 118 to get to the mine room. we have 43, so we need 75[m
+[01:29:41] [Async Chat Thread - #211/INFO]: <clutch2dope> i tink roid was workin on at[m
+[01:29:47] [Async Chat Thread - #210/INFO]: <clutch2dope> las nite[m
+[01:29:59] [Async Chat Thread - #211/INFO]: <clutch2dope> i tink he wanted a rail system between this village anna other[m
+[01:30:04] [Async Chat Thread - #210/INFO]: <clutch2dope> to transport animals[m
+[01:30:07] [Async Chat Thread - #211/INFO]: <forbritzeo> notha village?[m
+[01:30:11] [Async Chat Thread - #210/INFO]: <clutch2dope> yeh[m
+[01:30:58] [Async Chat Thread - #211/INFO]: <forbritzeo> dope armor[m
+[01:31:00] [Async Chat Thread - #211/INFO]: <clutch2dope> we rich rich[m
+[01:31:02] [Async Chat Thread - #210/INFO]: <clutch2dope> food wize now[m
+[01:31:07] [Async Chat Thread - #211/INFO]: <forbritzeo> actually?[m
+[01:31:10] [Async Chat Thread - #210/INFO]: <clutch2dope> yeh[m
+[01:31:14] [Async Chat Thread - #211/INFO]: <clutch2dope> lots and lots of watermelon[m
+[01:31:14] [Async Chat Thread - #210/INFO]: <forbritzeo> i just been killing salmon[m
+[01:31:28] [Async Chat Thread - #211/INFO]: <clutch2dope> thts what roid an i were doin before we found melons[m
+[01:34:09] [Server thread/INFO]: forbritzeo has made the advancement [Fishy Business]
+[01:34:32] [Async Chat Thread - #212/INFO]: <forbritzeo> uhhhh bri[m
+[01:34:35] [Async Chat Thread - #213/INFO]: <clutch2dope> huh[m
+[01:34:38] [Async Chat Thread - #213/INFO]: <forbritzeo> pillagers here[m
+[01:34:41] [Async Chat Thread - #212/INFO]: <clutch2dope> dope[m
+[01:34:43] [Async Chat Thread - #213/INFO]: <clutch2dope> lets fight[m
+[01:34:59] [Server thread/INFO]: clutch2dope has made the advancement [Take Aim]
+[01:35:17] [Async Chat Thread - #212/INFO]: <clutch2dope> i want a pillager raid[m
+[01:35:31] [Async Chat Thread - #213/INFO]: <clutch2dope> nigga u got me arrow inu[m
+[01:35:38] [Async Chat Thread - #212/INFO]: <forbritzeo> here[m
+[01:35:44] [Async Chat Thread - #212/INFO]: <clutch2dope> dope![m
+[01:37:20] [Async Chat Thread - #214/INFO]: <clutch2dope> why[m
+[01:37:27] [Async Chat Thread - #215/INFO]: <forbritzeo> why not[m
+[01:37:30] [Async Chat Thread - #214/INFO]: <forbritzeo> more planting space[m
+[01:37:35] [Async Chat Thread - #215/INFO]: <clutch2dope> bro[m
+[01:37:54] [Async Chat Thread - #214/INFO]: <forbritzeo> oh do they take 2 blocks[m
+[01:37:56] [Async Chat Thread - #215/INFO]: <forbritzeo> my b[m
+[01:37:59] [Async Chat Thread - #214/INFO]: <forbritzeo> never farmed these[m
+[01:38:06] [Async Chat Thread - #215/INFO]: <clutch2dope> melons just gonna trample on soil when tehy grow[m
+[01:38:29] [Async Chat Thread - #214/INFO]: <clutch2dope> To the pods![m
+[01:38:39] [Async Chat Thread - #215/INFO]: <clutch2dope> #3[m
+[01:39:44] [Async Chat Thread - #216/INFO]: <forbritzeo> cows![m
+[01:39:58] [Async Chat Thread - #217/INFO]: <clutch2dope> roid brought em ova[m
+[01:40:02] [Async Chat Thread - #216/INFO]: <clutch2dope> i been breedin[m
+[01:40:05] [Async Chat Thread - #217/INFO]: <forbritzeo> we need books[m
+[01:40:16] [Async Chat Thread - #216/INFO]: <forbritzeo> FUCK[m
+[01:40:17] [Async Chat Thread - #217/INFO]: <forbritzeo> HELP[m
+[01:42:31] [Async Chat Thread - #219/INFO]: <forbritzeo> paper?[m
+[01:42:40] [Async Chat Thread - #218/INFO]: <clutch2dope> got6[m
+[01:44:46] [Async Chat Thread - #221/INFO]: <clutch2dope> i feel like there are barely any villagers here now[m
+[01:44:54] [Async Chat Thread - #221/INFO]: <forbritzeo> we scared em away[m
+[01:44:58] [Async Chat Thread - #220/INFO]: <clutch2dope> lame[m
+[01:45:48] [Async Chat Thread - #221/INFO]: <clutch2dope> books>?[m
+[01:45:51] [Async Chat Thread - #221/INFO]: <clutch2dope> we got enchant table[m
+[01:45:54] [Async Chat Thread - #220/INFO]: <forbritzeo> wait you got tonna rails[m
+[01:46:00] [Async Chat Thread - #221/INFO]: <forbritzeo> yeh enchant[m
+[01:46:07] [Async Chat Thread - #221/INFO]: <clutch2dope> tht roid house i tink[m
+[01:46:15] [Async Chat Thread - #220/INFO]: <clutch2dope> future[m
+[01:46:18] [Async Chat Thread - #221/INFO]: <clutch2dope> propertyu[m
+[01:46:24] [Async Chat Thread - #221/INFO]: <forbritzeo> futureaw property of clutch2dope[m
+[01:46:53] [Async Chat Thread - #220/INFO]: <clutch2dope> where enchant[m
+[01:47:07] [Async Chat Thread - #221/INFO]: <forbritzeo> lets make an enchant hut outta amythest[m
+[01:47:12] [Async Chat Thread - #220/INFO]: <clutch2dope> DOPE[m
+[01:49:46] [Async Chat Thread - #222/INFO]: <forbritzeo> calcite?[m
+[01:49:48] [Async Chat Thread - #222/INFO]: <clutch2dope> yeh[m
+[01:49:49] [Async Chat Thread - #223/INFO]: <clutch2dope> dope[m
+[01:49:53] [Async Chat Thread - #222/INFO]: <forbritzeo> ard[m
+[01:50:13] [Async Chat Thread - #223/INFO]: <forbritzeo> smooth bassalt[m
+[01:51:14] [Async Chat Thread - #224/INFO]: <forbritzeo> you got ob>[m
+[01:51:19] [Async Chat Thread - #224/INFO]: <clutch2dope> i tink[m
+[01:51:36] [Async Chat Thread - #225/INFO]: <clutch2dope> 6[m
+[01:51:53] [Server thread/INFO]: forbritzeo has made the advancement [Ice Bucket Challenge]
+[01:51:59] [Async Chat Thread - #225/INFO]: <clutch2dope> pods rq[m
+[01:51:59] [Async Chat Thread - #224/INFO]: <forbritzeo> huh[m
+[01:52:03] [Async Chat Thread - #225/INFO]: <clutch2dope> t1[m
+[01:52:05] [Async Chat Thread - #224/INFO]: <clutch2dope> p1[m
+[01:52:20] [Async Chat Thread - #225/INFO]: <forbritzeo> pods are so clutch[m
+[01:52:22] [Async Chat Thread - #224/INFO]: <clutch2dope> mhhhmmm[m
+[01:54:06] [Async Chat Thread - #226/INFO]: <forbritzeo> grrr[m
+[01:55:00] [Async Chat Thread - #227/INFO]: <forbritzeo> the DOME[m
+[01:56:23] [Async Chat Thread - #228/INFO]: <clutch2dope> shit is 2dope[m
+[01:57:42] [Async Chat Thread - #230/INFO]: <forbritzeo> gold floor[m
+[01:57:48] [Async Chat Thread - #231/INFO]: <clutch2dope> nah enchant area[m
+[01:58:48] [Async Chat Thread - #231/INFO]: <forbritzeo> paper/book?[m
+[01:59:01] [Async Chat Thread - #230/INFO]: <clutch2dope> gettin[m
+[02:01:55] [Async Chat Thread - #233/INFO]: <forbritzeo> i think its 15 book shelves for max[m
+[02:02:03] [Async Chat Thread - #232/INFO]: <clutch2dope> not double levels?[m
+[02:02:23] [Async Chat Thread - #233/INFO]: <forbritzeo> i donrt think adding bookshelves vertically does anything[m
+[02:02:27] [Async Chat Thread - #232/INFO]: <clutch2dope> ahh[m
+[02:02:33] [Async Chat Thread - #233/INFO]: <forbritzeo> common myth[m
+[02:03:02] [Async Chat Thread - #233/INFO]: <forbritzeo> its like a 16 pirimeter square with 1 block removed so you can walk in[m
+[02:03:11] [Async Chat Thread - #233/INFO]: <forbritzeo> worth verifying tho[m
+[02:03:16] [Async Chat Thread - #232/INFO]: <clutch2dope> pods rq[m
+[02:03:18] [Async Chat Thread - #233/INFO]: <forbritzeo> to the pods![m
+[02:03:27] [Async Chat Thread - #232/INFO]: <forbritzeo> 1[m
+[02:03:29] [Async Chat Thread - #233/INFO]: <clutch2dope> 2[m
+[02:04:13] [Async Chat Thread - #232/INFO]: <clutch2dope> u need leather for book?[m
+[02:04:35] [Async Chat Thread - #232/INFO]: <forbritzeo> i have lether[m
+[02:04:58] [Async Chat Thread - #233/INFO]: <forbritzeo> brb, watching vid on enchant bookshelf layout[m
+[02:05:01] [Server thread/INFO]: forbritzeo lost connection: Disconnected
+[02:05:01] [Server thread/INFO]: Farewell to this realm, forbritzeo
+[02:05:02] [Async Chat Thread - #232/INFO]: <clutch2dope> dope[m
+[02:17:48] [Craft Scheduler Thread - 93/INFO]: [Vault] Checking for Updates ... 
+[02:17:49] [Craft Scheduler Thread - 93/INFO]: [Vault] No new version available
+[02:18:17] [User Authenticator #38/INFO]: UUID of player forbritzeo is 393bbe0c-6db7-4404-a457-b64ee0fe48e9
+[02:18:17] [Server thread/INFO]: forbritzeo[/75.102.66.200:49631] logged in with entity id 170822 at ([world]-474.5734522842904, 65.0, 167.7855832420401)
+[02:18:17] [Server thread/INFO]: Welcome to the beastly realm, forbritzeo, there are 2 players currently crafting the day away![m
+[02:18:30] [Async Chat Thread - #234/INFO]: <clutch2dope> Welcome to the beastly realm, forbritzeo, there are 2 players currently crafting the day away![m
+[02:18:34] [Async Chat Thread - #235/INFO]: <forbritzeo> as long as you have 15 bookshelves in a 2 block radius[m
+[02:18:38] [Async Chat Thread - #234/INFO]: <clutch2dope> dope[m
+[02:19:02] [Async Chat Thread - #234/INFO]: <clutch2dope> lets move it up a level[m
+[02:19:28] [Async Chat Thread - #235/INFO]: <forbritzeo> dope sounds[m
+[02:22:40] [Async Chat Thread - #236/INFO]: <forbritzeo> 4 more[m
+[02:22:53] [Async Chat Thread - #236/INFO]: <clutch2dope> u got letha?[m
+[02:22:57] [Async Chat Thread - #237/INFO]: <forbritzeo> nah[m
+[02:23:03] [Async Chat Thread - #236/INFO]: <forbritzeo> ill get sum[m
+[02:23:09] [Async Chat Thread - #237/INFO]: <clutch2dope> breed cows before kill[m
+[02:23:37] [Async Chat Thread - #236/INFO]: <forbritzeo> wheat?[m
+[02:23:40] [Async Chat Thread - #237/INFO]: <clutch2dope> yeh[m
+[02:23:44] [Async Chat Thread - #236/INFO]: <forbritzeo> where[m
+[02:23:47] [Async Chat Thread - #237/INFO]: <clutch2dope> in chest next to[m
+[02:24:00] [Async Chat Thread - #236/INFO]: <forbritzeo> only seeds[m
+[02:24:07] [Async Chat Thread - #237/INFO]: <clutch2dope> otha farm chest then[m
+[02:24:48] [Server thread/INFO]: forbritzeo has made the advancement [The Parrots and the Bats]
+[02:25:06] [Async Chat Thread - #236/INFO]: <forbritzeo> need carpey for the cow farm[m
+[02:25:09] [Async Chat Thread - #237/INFO]: <forbritzeo> carpet[m
+[02:25:12] [Async Chat Thread - #236/INFO]: <clutch2dope> mhhmm[m
+[02:25:15] [Async Chat Thread - #237/INFO]: <clutch2dope> no weel[m
+[02:25:16] [Async Chat Thread - #236/INFO]: <clutch2dope> wool[m
+[02:25:22] [Async Chat Thread - #237/INFO]: <clutch2dope> in other village[m
+[02:26:24] [Async Chat Thread - #238/INFO]: <clutch2dope> brb[m
+[02:26:25] [Server thread/INFO]: clutch2dope lost connection: Disconnected
+[02:26:25] [Server thread/INFO]: Farewell to this realm, clutch2dope
+[02:35:54] [Server thread/INFO]: forbritzeo lost connection: Disconnected
+[02:35:54] [Server thread/INFO]: Farewell to this realm, forbritzeo
+[02:41:00] [User Authenticator #39/INFO]: UUID of player forbritzeo is 393bbe0c-6db7-4404-a457-b64ee0fe48e9
+[02:41:01] [Server thread/INFO]: forbritzeo[/75.102.66.200:49737] logged in with entity id 173491 at ([world]-471.5174272548646, 64.0, 165.7511609794615)
+[02:41:01] [Server thread/INFO]: Welcome to the beastly realm, forbritzeo, there are 1 players currently crafting the day away![m
+[02:43:57] [User Authenticator #40/INFO]: UUID of player clutch2dope is b962a643-ce32-440d-8004-e4999901efb3
+[02:43:57] [Server thread/INFO]: clutch2dope[/47.184.120.151:50013] logged in with entity id 174073 at ([world]-448.46870948126775, 63.0, 203.9726822946917)
+[02:43:57] [Server thread/INFO]: Welcome to the beastly realm, clutch2dope, there are 2 players currently crafting the day away![m
+[02:44:04] [Async Chat Thread - #241/INFO]: <clutch2dope> A very dope christmas![m
+[02:50:28] [Server thread/INFO]: clutch2dope has made the advancement [Enchanter]
+[02:50:39] [Async Chat Thread - #244/INFO]: <forbritzeo> enchanter?[m
+[02:50:45] [Async Chat Thread - #244/INFO]: <clutch2dope> mhhhmm[m
+[02:50:46] [Async Chat Thread - #243/INFO]: <forbritzeo> i hardly know her![m
+[02:53:31] [Async Chat Thread - #245/INFO]: <clutch2dope> tothePODS![m
+[02:53:36] [Server thread/INFO]: forbritzeo lost connection: Disconnected
+[02:53:36] [Server thread/INFO]: Farewell to this realm, forbritzeo
+[02:53:49] [User Authenticator #41/INFO]: UUID of player forbritzeo is 393bbe0c-6db7-4404-a457-b64ee0fe48e9
+[02:53:49] [Server thread/INFO]: forbritzeo[/75.102.66.200:49808] logged in with entity id 175742 at ([world]-536.4389993561532, -59.0, 254.7243153893502)
+[02:53:49] [Server thread/INFO]: Welcome to the beastly realm, forbritzeo, there are 2 players currently crafting the day away![m
+[02:59:57] [Async Chat Thread - #247/INFO]: <clutch2dope> need some pillagers tbh[m
+[03:03:45] [Async Chat Thread - #249/INFO]: <clutch2dope> yeon[m
+[03:03:51] [Async Chat Thread - #249/INFO]: <forbritzeo> drip stone floor[m
+[03:03:55] [Async Chat Thread - #250/INFO]: <forbritzeo> yay or nay[m
+[03:03:55] [Async Chat Thread - #250/INFO]: <clutch2dope> chillll[m
+[03:04:07] [Async Chat Thread - #249/INFO]: <forbritzeo> i need more drip[m
+[03:04:13] [Async Chat Thread - #250/INFO]: <clutch2dope> drip too hard![m
+[03:05:37] [Async Chat Thread - #251/INFO]: <forbritzeo> what enchant you get[m
+[03:05:43] [Async Chat Thread - #252/INFO]: <clutch2dope> eff[m
+[03:05:46] [Async Chat Thread - #251/INFO]: <clutch2dope> 3[m
+[03:12:01] [Async Chat Thread - #253/INFO]: <forbritzeo> pods[m
+[03:12:05] [Server thread/INFO]: clutch2dope lost connection: Disconnected
+[03:12:05] [Server thread/INFO]: Farewell to this realm, clutch2dope
+[03:12:15] [Server thread/INFO]: Villager EntityVillager['Villager'/173567, l='ServerLevel[world]', x=-425.70, y=66.00, z=169.54] died, message: 'Villager was slain by Zombie'
+[03:12:17] [User Authenticator #42/INFO]: UUID of player clutch2dope is b962a643-ce32-440d-8004-e4999901efb3
+[03:12:17] [Server thread/INFO]: clutch2dope[/47.184.120.151:50263] logged in with entity id 179713 at ([world]-817.0561994366054, -59.0, 184.54132254466563)
+[03:12:17] [Server thread/INFO]: Welcome to the beastly realm, clutch2dope, there are 2 players currently crafting the day away![m
+[03:12:21] [Async Chat Thread - #253/INFO]: <forbritzeo> dope[m
+[03:13:40] [Async Chat Thread - #255/INFO]: <clutch2dope> was boutta say this mine sucks then 5 seconds later hit a vein of 10 diamonds[m
+[03:13:46] [Async Chat Thread - #255/INFO]: <clutch2dope> so clutch[m
+[03:16:14] [User Authenticator #43/INFO]: UUID of player Cestroid is 639b2c9b-c65b-46ad-92f6-c6d9320b2bd8
+[03:16:14] [Server thread/INFO]: Cestroid[/73.245.111.30:63426] logged in with entity id 181224 at ([world]-427.69999998807907, 66.5625, 174.69999998807907)
+[03:16:14] [Server thread/INFO]: Welcome to the beastly realm, Cestroid, there are 3 players currently crafting the day away![m
+[03:16:24] [Async Chat Thread - #257/INFO]: <Cestroid> yoooooo[m
+[03:16:28] [Async Chat Thread - #258/INFO]: <Cestroid> everyone craftiun[m
+[03:16:35] [Async Chat Thread - #258/INFO]: <clutch2dope> no cj[m
+[03:16:43] [Async Chat Thread - #258/INFO]: <Cestroid> don been on yet?[m
+[03:16:44] [Async Chat Thread - #258/INFO]: <clutch2dope> an don been lyin[m
+[03:16:48] [Async Chat Thread - #258/INFO]: <clutch2dope> ion tink[m
+[03:16:59] [Async Chat Thread - #257/INFO]: <Cestroid> DAMN[m
+[03:17:02] [Async Chat Thread - #258/INFO]: <clutch2dope> his idea[m
+[03:17:11] [Async Chat Thread - #257/INFO]: <Cestroid> SOME RICH GUY MOVE IN THE NEIHGBORHOOD|[m
+[03:17:27] [Async Chat Thread - #257/INFO]: <Cestroid> dope ass enchants[m
+[03:17:28] [Async Chat Thread - #257/INFO]: <clutch2dope> bettus[m
+[03:19:34] [Async Chat Thread - #259/INFO]: <forbritzeo> roid you seen mine?[m
+[03:19:40] [Async Chat Thread - #259/INFO]: <forbritzeo> we needs make rails down to it[m
+[03:19:42] [Async Chat Thread - #260/INFO]: <clutch2dope> ap clutched itout[m
+[03:19:47] [Async Chat Thread - #259/INFO]: <Cestroid> i heard bout it but aint[m
+[03:19:54] [Async Chat Thread - #260/INFO]: <forbritzeo> wya[m
+[03:20:00] [Async Chat Thread - #260/INFO]: <clutch2dope> clutchstone[m
+[03:20:09] [Async Chat Thread - #259/INFO]: <Cestroid> oh i was literally just bout to make rails to neighboring village lel[m
+[03:20:15] [Async Chat Thread - #260/INFO]: <forbritzeo> that too[m
+[03:20:31] [Async Chat Thread - #259/INFO]: <Cestroid> anyway i come see[m
+[03:20:38] [Async Chat Thread - #260/INFO]: <forbritzeo> why iron so rare these days[m
+[03:20:43] [Async Chat Thread - #259/INFO]: <clutch2dope> u too low[m
+[03:20:48] [Async Chat Thread - #260/INFO]: <clutch2dope> it everywhere in cabe[m
+[03:21:28] [Async Chat Thread - #259/INFO]: <forbritzeo> i won![m
+[03:21:40] [Async Chat Thread - #260/INFO]: <Cestroid> strip goes dope[m
+[03:21:49] [Async Chat Thread - #259/INFO]: <Cestroid> this betters rock?[m
+[03:22:02] [Async Chat Thread - #260/INFO]: <forbritzeo> bedroom rock[m
+[03:22:08] [Async Chat Thread - #259/INFO]: <Cestroid> chill ass shit[m
+[03:22:15] [Async Chat Thread - #260/INFO]: <Cestroid> u just been strippin then[m
+[03:22:16] [Async Chat Thread - #259/INFO]: <clutch2dope> cb bc[m
+[03:22:30] [Async Chat Thread - #260/INFO]: <forbritzeo> im a stripper[m
+[03:23:08] [Async Chat Thread - #259/INFO]: <forbritzeo> needa better pick axe tho. 3 more xp levels[m
+[03:23:12] [Async Chat Thread - #260/INFO]: <Cestroid> lucas and i attacked the nether hogs yesterday and made some manual farms[m
+[03:23:33] [Async Chat Thread - #259/INFO]: <clutch2dope> i down to go to netha gain[m
+[03:24:07] [Async Chat Thread - #260/INFO]: <Cestroid> the hell is calcite[m
+[03:24:11] [Async Chat Thread - #259/INFO]: <clutch2dope> das[m
+[03:24:34] [Server thread/INFO]: forbritzeo lost connection: Disconnected
+[03:24:34] [Server thread/INFO]: Farewell to this realm, forbritzeo
+[03:24:41] [Async Chat Thread - #260/INFO]: <clutch2dope> #2[m
+[03:24:49] [User Authenticator #44/INFO]: UUID of player forbritzeo is 393bbe0c-6db7-4404-a457-b64ee0fe48e9
+[03:24:49] [Server thread/INFO]: forbritzeo[/75.102.66.200:49842] logged in with entity id 184006 at ([world]-536.6767081880124, -59.0, 137.85633039491188)
+[03:24:49] [Server thread/INFO]: Welcome to the beastly realm, forbritzeo, there are 3 players currently crafting the day away![m
+[03:25:33] [Async Chat Thread - #260/INFO]: <Cestroid> we can go netehr again if wanty[m
+[03:25:42] [Async Chat Thread - #259/INFO]: <clutch2dope> yeh def down[m
+[03:25:43] [Async Chat Thread - #260/INFO]: <Cestroid> needa find a fortress for blaze rods n shit[m
+[03:25:59] [Async Chat Thread - #259/INFO]: <Cestroid> we can make ender eyesand enda chess[m
+[03:26:14] [Async Chat Thread - #260/INFO]: <forbritzeo> i going bed soon[m
+[03:26:18] [Async Chat Thread - #259/INFO]: <forbritzeo> schleepy[m
+[03:26:32] [Async Chat Thread - #259/INFO]: <Cestroid> forbritze-0[m
+[03:26:38] [Async Chat Thread - #260/INFO]: <Cestroid> clutch 2 dope[m
+[03:26:44] [Async Chat Thread - #259/INFO]: <forbritzeo> forbritzero[m
+[03:26:51] [Async Chat Thread - #260/INFO]: <clutch2dope> zaaaang[m
+[03:26:54] [Async Chat Thread - #259/INFO]: <Cestroid> at 00:00[m
+[03:27:51] [Async Chat Thread - #260/INFO]: <Cestroid> lemme grab some shit blox to build around with in the nether[m
+[03:28:30] [Async Chat Thread - #259/INFO]: <forbritzeo> more diamonds but i kinda wanna get fortune first[m
+[03:28:36] [Async Chat Thread - #259/INFO]: <Cestroid> truth[m
+[03:28:43] [Async Chat Thread - #260/INFO]: <clutch2dope> almost got full dia armour[m
+[03:28:44] [Async Chat Thread - #259/INFO]: <Cestroid> just member where they at[m
+[03:28:45] [Async Chat Thread - #260/INFO]: <clutch2dope> jus need pants[m
+[03:29:02] [Async Chat Thread - #260/INFO]: <Cestroid> donestly should try to get a villager that trades for it[m
+[03:29:32] [Async Chat Thread - #260/INFO]: <Cestroid> damn clutch ass armor[m
+[03:29:34] [Async Chat Thread - #260/INFO]: <clutch2dope> mhhhmm[m
+[03:29:38] [Async Chat Thread - #259/INFO]: <clutch2dope> richaf niggha[m
+[03:29:50] [Async Chat Thread - #260/INFO]: <Cestroid> i aint rich enough to bring any diamond shit to netehr. too risky[m
+[03:30:00] [Async Chat Thread - #259/INFO]: <clutch2dope> yeh maybe just sword n bow[m
+[03:31:17] [Async Chat Thread - #262/INFO]: <Cestroid> u cominm[m
+[03:31:21] [Async Chat Thread - #261/INFO]: <clutch2dope> 1sec[m
+[03:35:15] [Server thread/INFO]: Cestroid tried to swim in lava
+[03:35:19] [Async Chat Thread - #263/INFO]: <clutch2dope> nigga[m
+[03:35:19] [Async Chat Thread - #264/INFO]: <Cestroid> lol[m
+[03:35:26] [Async Chat Thread - #263/INFO]: <clutch2dope> netha?[m
+[03:35:27] [Async Chat Thread - #264/INFO]: <forbritzeo> L[m
+[03:35:30] [Async Chat Thread - #263/INFO]: <Cestroid> ohhhh yeh[m
+[03:35:36] [Async Chat Thread - #264/INFO]: <clutch2dope> zach>[m
+[03:35:37] [Async Chat Thread - #263/INFO]: <clutch2dope> L[m
+[03:35:42] [Async Chat Thread - #263/INFO]: <Cestroid> it okay thats why i aint go with diamonds[m
+[03:35:54] [Async Chat Thread - #264/INFO]: <Cestroid> just lost a bunch of lame ass shit[m
+[03:35:56] [Async Chat Thread - #263/INFO]: <Cestroid> fr fr[m
+[03:36:16] [Async Chat Thread - #263/INFO]: <Cestroid> i accidentally broke the block i was standing on while bridging over lava[m
+[03:36:42] [Async Chat Thread - #263/INFO]: <clutch2dope> aite i ready[m
+[03:36:53] [Async Chat Thread - #264/INFO]: <Cestroid> one sec suiting back up[m
+[03:37:19] [Async Chat Thread - #263/INFO]: <Cestroid> no need to leave i was just seting spawn[m
+[03:37:59] [Async Chat Thread - #264/INFO]: <Cestroid> vreh[m
+[03:38:03] [Async Chat Thread - #263/INFO]: <clutch2dope> huh[m
+[03:38:18] [Async Chat Thread - #263/INFO]: <forbritzeo> pods![m
+[03:39:10] [Async Chat Thread - #264/INFO]: <Cestroid> aite ready for round 2[m
+[03:39:11] [Async Chat Thread - #264/INFO]: <clutch2dope> ready niqqa?[m
+[03:40:42] [Async Chat Thread - #265/INFO]: <clutch2dope> shit i forgot junk bloques[m
+[03:40:49] [Async Chat Thread - #266/INFO]: <clutch2dope> u got some?[m
+[03:41:13] [Async Chat Thread - #266/INFO]: <Cestroid> like a lil[m
+[03:43:00] [Async Chat Thread - #267/INFO]: <clutch2dope> .[m
+[03:44:53] [Async Chat Thread - #269/INFO]: <Cestroid> where the fort frfr[m
+[03:44:57] [Async Chat Thread - #269/INFO]: <clutch2dope> mhhhmm[m
+[03:45:49] [Async Chat Thread - #269/INFO]: <Cestroid> shoulda brought some obsideon to make an island on the clutch ass server map[m
+[03:46:00] [Async Chat Thread - #270/INFO]: <clutch2dope> why obsedian[m
+[03:46:04] [Async Chat Thread - #269/INFO]: <forbritzeo> u gotta nether map?[m
+[03:46:08] [Async Chat Thread - #270/INFO]: <clutch2dope> yeh[m
+[03:46:09] [Async Chat Thread - #269/INFO]: <Cestroid> make a portal to overworld[m
+[03:46:11] [Async Chat Thread - #270/INFO]: <clutch2dope> i lookin[m
+[03:46:13] [Async Chat Thread - #270/INFO]: <clutch2dope> ahhh[m
+[03:47:29] [Async Chat Thread - #271/INFO]: <clutch2dope> piggas[m
+[03:47:33] [Async Chat Thread - #272/INFO]: <clutch2dope> toot toot[m
+[03:47:39] [Async Chat Thread - #272/INFO]: <Cestroid> they hate us fr[m
+[03:47:58] [Async Chat Thread - #271/INFO]: <clutch2dope> apab[m
+[03:48:06] [Async Chat Thread - #272/INFO]: <Cestroid> truth[m
+[03:49:36] [Async Chat Thread - #273/INFO]: <Cestroid> shit forgiot food lol[m
+[03:49:40] [Async Chat Thread - #273/INFO]: <clutch2dope> i got[m
+[03:49:50] [Async Chat Thread - #274/INFO]: <Cestroid> dope[m
+[03:50:41] [Async Chat Thread - #274/INFO]: <Cestroid> so foggy in ere[m
+[03:50:46] [Async Chat Thread - #274/INFO]: <clutch2dope> mhhhmm[m
+[03:50:52] [Async Chat Thread - #273/INFO]: <clutch2dope> wildfire haze[m

@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1694654561084
-  login: 1694658460654
+  logout: 1694672824335
+  login: 1694747774399
 money: '0'
 last-account-name: Cestroid
 logoutlocation:
   world: dd6869be-9897-4ccd-96f1-635a0117a493
   world-name: world
-  x: -390.0888848830975
-  y: 67.0
-  z: -58.25602770262789
-  yaw: 14.726806640625
-  pitch: -2.3997485637664795
+  x: -427.69999998807907
+  y: 66.5625
+  z: 174.69999998807907
+  yaw: -165.14990234375
+  pitch: 30.15000343322754

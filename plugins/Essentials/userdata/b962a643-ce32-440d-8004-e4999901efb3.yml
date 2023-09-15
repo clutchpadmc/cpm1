@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1694572076830
-  login: 1694658647054
+  logout: 1694747525085
+  login: 1694747537947
 money: '0'
 last-account-name: clutch2dope
 logoutlocation:
   world: dd6869be-9897-4ccd-96f1-635a0117a493
   world-name: world
-  x: -533.3000000119209
+  x: -817.0561994366054
   y: -59.0
-  z: 350.69999998807907
-  yaw: 2.75970458984375
-  pitch: 12.300253868103027
+  z: 184.54132254466563
+  yaw: 90.0150146484375
+  pitch: 36.900028228759766

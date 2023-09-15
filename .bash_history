@@ -214,3 +214,5 @@ screen -rd mc
 screen -rc
 screen -rc mc
 screen -rd mc
+screen -dr mc
+screen -rd mc

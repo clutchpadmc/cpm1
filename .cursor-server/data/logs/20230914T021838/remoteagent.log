@@ -22,3 +22,6 @@
 2023-09-14 02:28:50.392 [info] [127.0.0.1][d01885e5][ExtensionHostConnection] <22290> Launched Extension Host Process.
 2023-09-14 02:29:04.414 [info] New EH opened, aborting shutdown
 2023-09-14 02:33:50.291 [info] [127.0.0.1][a9114eee][ExtensionHostConnection] <20930> Extension Host Process exited with code: 0, signal: null.
+2023-09-14 07:31:41.571 [info] [127.0.0.1][d01885e5][ExtensionHostConnection] <22290> Extension Host Process exited with code: 0, signal: null.
+2023-09-14 07:31:41.572 [info] Last EH closed, waiting before shutting down
+2023-09-14 07:36:41.572 [info] Last EH closed, shutting down
