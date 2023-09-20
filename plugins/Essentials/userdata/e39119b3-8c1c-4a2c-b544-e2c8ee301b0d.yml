@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1694654556333
-  login: 1694654281542
+  logout: 1695167907241
+  login: 1695167910460
 money: '0'
 last-account-name: cjdaman21
 logoutlocation:
-  world: dd6869be-9897-4ccd-96f1-635a0117a493
-  world-name: world
-  x: -10881.576481400105
-  y: 71.5625
-  z: -2483.509764028431
-  yaw: 5.341827392578125
-  pitch: 20.34649085998535
+  world: 9e7aff40-2bff-40b8-b4b3-4674878a7d32
+  world-name: world_nether
+  x: -1363.1287220870233
+  y: 25.317045856080956
+  z: -464.45042227183274
+  yaw: -53.07280349731445
+  pitch: 86.67898559570312

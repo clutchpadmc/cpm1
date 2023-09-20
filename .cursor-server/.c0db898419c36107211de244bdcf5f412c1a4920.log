@@ -1,32 +1,24 @@
-Server bound to 127.0.0.1:34975 (IPv4)
-Extension host agent listening on 34975
+Server bound to 127.0.0.1:38715 (IPv4)
+Extension host agent listening on 38715
 
-[16:52:15] 
+[23:46:03] 
 
 
 
 
 FaroSystemAppender constructor
-[16:52:15] Extension host agent started.
-[16:52:16] [127.0.0.1][3acc211d][ManagementConnection] Unknown reconnection token (never seen).
-[16:52:16] [127.0.0.1][d01885e5][ExtensionHostConnection] Unknown reconnection token (never seen).
-[16:52:24] [127.0.0.1][67555634][ManagementConnection] New connection established.
-[16:52:24] [127.0.0.1][271e7a2e][ExtensionHostConnection] New connection established.
-[16:52:25] [127.0.0.1][271e7a2e][ExtensionHostConnection] <3478> Launched Extension Host Process.
+[23:46:03] Extension host agent started.
+[23:46:06] [127.0.0.1][b2d00a70][ManagementConnection] New connection established.
+[23:46:07] [127.0.0.1][63dbc4bf][ExtensionHostConnection] New connection established.
+[23:46:07] [127.0.0.1][63dbc4bf][ExtensionHostConnection] <16422> Launched Extension Host Process.
+[23:47:00] [127.0.0.1][b2d00a70][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[23:47:00] [127.0.0.1][63dbc4bf][ExtensionHostConnection] <16422> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[23:47:00] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[23:47:00] Last EH closed, waiting before shutting down
+[23:47:17] [127.0.0.1][1688f891][ManagementConnection] New connection established.
+[23:47:20] [127.0.0.1][ebee27f9][ExtensionHostConnection] New connection established.
+[23:47:20] [127.0.0.1][ebee27f9][ExtensionHostConnection] <16874> Launched Extension Host Process.
 New EH opened, aborting shutdown
-[16:57:15] New EH opened, aborting shutdown
-[20:31:04] [127.0.0.1][271e7a2e][ExtensionHostConnection] The client has reconnected.
-[22:07:35] [127.0.0.1][67555634][ManagementConnection] The client has reconnected.
-[22:07:35] [127.0.0.1][271e7a2e][ExtensionHostConnection] The client has reconnected.
-[01:09:47] [127.0.0.1][ed4d91eb][ManagementConnection] New connection established.
-[01:09:47] [127.0.0.1][0288d1ae][ExtensionHostConnection] New connection established.
-[01:09:47] [127.0.0.1][0288d1ae][ExtensionHostConnection] <22839> Launched Extension Host Process.
-[IPC Library: Pty Host]  WARN Persistent process "2": Process had no disconnect runners but was an orphan
-[IPC Library: Pty Host]  INFO Persistent process reconnection "2"
-[IPC Library: Pty Host]  WARN Persistent process "1": Process had no disconnect runners but was an orphan
-[IPC Library: Pty Host]  INFO Persistent process reconnection "1"
-[IPC Library: Pty Host]  INFO Persistent process "2": Replaying 1644 chars and 1 size events
-[IPC Library: Pty Host]  INFO Persistent process "1": Replaying 1721 chars and 1 size events
-[01:14:47] [127.0.0.1][271e7a2e][ExtensionHostConnection] <3478> Extension Host Process exited with code: 0, signal: null.
-[03:51:39] [127.0.0.1][ed4d91eb][ManagementConnection] The client has reconnected.
-[03:51:39] [127.0.0.1][0288d1ae][ExtensionHostConnection] The client has reconnected.
+[23:52:00] New EH opened, aborting shutdown

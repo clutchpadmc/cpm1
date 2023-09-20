@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1694748274484
-  login: 1694748289691
+  logout: 1695147362092
+  login: 1695143524009
 money: '0'
 last-account-name: forbritzeo
 logoutlocation:
   world: dd6869be-9897-4ccd-96f1-635a0117a493
   world-name: world
-  x: -536.6767081880124
+  x: -978.2044914612799
   y: -59.0
-  z: 137.85633039491188
-  yaw: -178.61856079101562
-  pitch: 11.849992752075195
+  z: 181.5525838912805
+  yaw: -85.94847869873047
+  pitch: 3.899988889694214

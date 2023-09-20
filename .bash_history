@@ -216,3 +216,6 @@ screen -rc mc
 screen -rd mc
 screen -dr mc
 screen -rd mc
+ls
+cd dope
+screen -rd mc
